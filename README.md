@@ -27,10 +27,10 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  |        	      |															     | 					 											 |
  
  
-## Website that may be helpful in your ml journey
+## ML Paper
 
-[Papers with Code](https://paperswithcode.com/sota)
-[Two Minute Papers - Youtube](https://www.youtube.com/c/K%C3%A1rolyZsolnai/videos)
+		* 		[Papers with Code](https://paperswithcode.com/sota)
+		*		[Two Minute Papers - Youtube](https://www.youtube.com/c/K%C3%A1rolyZsolnai/videos)
 
 
 
