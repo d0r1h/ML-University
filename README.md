@@ -17,8 +17,8 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  |		          | Deep Learning **NYU**					 					 | [WebSite](https://atcold.github.io/pytorch-Deep-Learning/)	  |
  |        		  | Deep Learning Lecture Series	**DeepMind x UCL**			 | [YouTube](https://tinyurl.com/create.php)   				  |
  |        		  | Deep Learning (CS230) **Stanford**						     | [WebSite](https://cs230.stanford.edu/lecture/)               | 
- |        		  | CNN for Visual Recognition(CS231n) **Stanford**    		     | [WebSite-2020](https://cs231n.github.io/) 					  |
- |        		  |															     | [YouTube-2017](https://tinyurl.com/y2gghbvs) 				  |
+ |        		  | CNN for Visual Recognition(CS231n) **Stanford**    		     | [WebSite-2020](https://cs231n.github.io/)[YouTube-2017](https://tinyurl.com/y2gghbvs)|
+ |        		  |															     | 				  |
  | NLP     	      |															     | 					 											 |
  |        	      |															     | 					 											 |
  |        	      |															     | 					 											 |
@@ -29,8 +29,8 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  
 ## ML Paper
 
-		* 		[Papers with Code](https://paperswithcode.com/sota)
-		*		[Two Minute Papers - Youtube](https://www.youtube.com/c/K%C3%A1rolyZsolnai/videos)
+1.	[Papers with Code](https://paperswithcode.com/sota)
+2.	[Two Minute Papers - Youtube](https://www.youtube.com/c/K%C3%A1rolyZsolnai/videos)
 
 
 
