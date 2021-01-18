@@ -1,7 +1,7 @@
 # Machine Learning University
 
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./contribute.md)[![HitCount](http://hits.dwyl.com/{d0r1h}/{ML-University}.svg)](http://hits.dwyl.com/{d0r1h}/{ML-University})
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./contribute.md) [![HitCount](http://hits.dwyl.com/{d0r1h}/{ML-University}.svg)](http://hits.dwyl.com/{d0r1h}/{ML-University})
 
 
 Machine Learning Open Source University is an IDEA of free-learning of a ML enthusiast for all other ML enthusiast
@@ -15,7 +15,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 2. [Mathematics](#mathematics)
 3. [Machine Learning](#machine-learning)
 4. [Deep Learning](#deep-learning)
-5. [Natural language processing](#natural-language-processing()
+5. [Natural language processing](#natural-language-processing)
 6. [Books](#books)
 7. [Other Useful Websites](#other-useful-websites)
 8. [Other Useful GitRrpo](#other-useful-gitrepo)
@@ -46,7 +46,6 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | NLP     	      |															     | 					 											 |
  |        	      |															     | 					 											 |
  |        	      |															     | 					 											 |
- | Books       	  |	Mathematics for Machine Learning							 | [mml-book](https://mml-book.github.io/book/mml-book.pdf)		 |
  |        	      |															     | 					 											 | 
  |        	      |															     | 					 											 |
 ## Mathematics
@@ -63,6 +62,12 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 
 ## Books
 
+
+ |        		  | Title and Source                                             | Link                               				          |
+ |----------------| ------------------------------------------------------------ | -----------------------------------------------------------|
+ | Books       	  |	Mathematics for Machine Learning							 | [mml-book](https://mml-book.github.io/book/mml-book.pdf)	  |
+
+
  
 ## Other Useful Websites
 
@@ -71,5 +76,6 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 
 ## Other Useful GitRrpo
 
+1. [applied-ml:Papers and blogs by organizations ](https://github.com/eugeneyan/applied-ml)
 
 
