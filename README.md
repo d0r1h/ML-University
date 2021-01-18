@@ -31,41 +31,51 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 
 ## Getting Started
 
- |        		  | Title and Source                                             | Link                               				          |
- |----------------| ------------------------------------------------------------ | -------------------------------------------------------------|
- | Start  	      | Elements of AI :  Part-1                                     | [WebSite](https://course.elementsofai.com/)				  |
- |        		  | Elements of AI :  Part-2                                     | [WebSite](https://buildingai.elementsofai.com/) 			  |
- |        		  | CS50’s Introduction to AI	**Harvard**			             | [Cs50 WebSite](https://cs50.harvard.edu/ai/2020/)			  |
- |Machine Learning| Machine Learning (CS229) **Stanford**						 | [WebSite](http://cs229.stanford.edu/syllabus-spring2020.html)|
- |Deep Learning   | Introduction to Deep Learning(6.S191) **MIT**		 		 | [YouTube](https://tinyurl.com/y2jmc89y)					  |
- |		          | Deep Learning **NYU**					 					 | [WebSite](https://atcold.github.io/pytorch-Deep-Learning/)	  |
- |        		  | Deep Learning Lecture Series	**DeepMind x UCL**			 | [YouTube](https://tinyurl.com/create.php)   				  |
- |        		  | Deep Learning (CS230) **Stanford**						     | [WebSite](https://cs230.stanford.edu/lecture/)               | 
- |        		  | CNN for Visual Recognition(CS231n) **Stanford**    		     | [WebSite-2020](https://cs231n.github.io/)  [YouTube-2017](https://tinyurl.com/y2gghbvs)|
- |        		  |															     | 				  |
- | NLP     	      |															     | 					 											 |
- |        	      |															     | 					 											 |
- |        	      |															     | 					 											 |
- |        	      |															     | 					 											 | 
- |        	      |															     | 					 											 |
+ | Title and Source                                             | Link                               				          |
+ |------------------------------------------------------------  | -------------------------------------------------------------|
+ | Elements of AI :  Part-1                                     | [WebSite](https://course.elementsofai.com/)				  |
+ | Elements of AI :  Part-2                                     | [WebSite](https://buildingai.elementsofai.com/) 			  |
+ | CS50’s Introduction to AI	**Harvard**			            | [Cs50 WebSite](https://cs50.harvard.edu/ai/2020/)			  |
+
+ 
+
 ## Mathematics
 
 
 ## Machine Learning
 
+ | Title and Source                                             | Link                               				          |
+ |------------------------------------------------------------  | -------------------------------------------------------------|
+ | Machine Learning (CS229) **Stanford**						| [WebSite](http://cs229.stanford.edu/syllabus-spring2020.html)|
+
 
 ## Deep Learning
+ 
+ 
+ | Title and Source                                             | Link                               				          |
+ |------------------------------------------------------------  | -------------------------------------------------------------|
+ | Introduction to Deep Learning(6.S191) **MIT**		 		| [YouTube](https://tinyurl.com/y2jmc89y)					  |
+ | Deep Learning **NYU**					 					| [WebSite](https://atcold.github.io/pytorch-Deep-Learning/)	  |
+ | Deep Learning Lecture Series	**DeepMind x UCL**			    | [YouTube](https://tinyurl.com/create.php)   				  |
+ | Deep Learning (CS230) **Stanford**						    | [WebSite](https://cs230.stanford.edu/lecture/)               | 
+ | CNN for Visual Recognition(CS231n) **Stanford**    		    | [WebSite-2020](https://cs231n.github.io/)  [YouTube-2017](https://tinyurl.com/y2gghbvs)|
+
 
 
 ## Natural language processing 
+
+ | Title and Source                                             | Link                               				          |
+ | ------------------------------------------------------------ | -----------------------------------------------------------|
+ | NLP - Krish Naik 				                            | [YouTube](https://www.youtube.com/playlist?list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm)
+ | NLP with Deep Learning(CS224N) 2019 **Stanford**     		| [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 
 
 ## Books
 
 
- |        		  | Title and Source                                             | Link                               				          |
- |----------------| ------------------------------------------------------------ | -----------------------------------------------------------|
- | Books       	  |	Mathematics for Machine Learning							 | [mml-book](https://mml-book.github.io/book/mml-book.pdf)	  |
+ | Title and Source                                             | Link                               				         |
+ |------------------------------------------------------------  | -----------------------------------------------------------|
+ | Mathematics for Machine Learning							    | [mml-book](https://mml-book.github.io/book/mml-book.pdf)	 |
 
 
  
@@ -74,8 +84,8 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 1.	[Papers with Code](https://paperswithcode.com/sota)
 2.	[Two Minute Papers - Youtube](https://www.youtube.com/c/K%C3%A1rolyZsolnai/videos)
 
-## Other Useful GitRrpo
+## Other Useful GitRepo
 
-1. [applied-ml:Papers and blogs by organizations ](https://github.com/eugeneyan/applied-ml)
+1. [Applied-ml - Papers and blogs by organizations ](https://github.com/eugeneyan/applied-ml)
 
 
