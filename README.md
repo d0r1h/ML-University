@@ -8,8 +8,13 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 **Table of Contents**
 
 1. [Getting Started](#getting-started)
-
-
+2. [Mathematics](#mathematics)
+3. [Machine Learning](#machine-learning)
+4. [Deep Learning](#deep-learning)
+5. [Natural language processing](#natural-language-processing()
+6. [Books](#books)
+7. [Other Useful Websites](#other-useful-websites)
+8. [Other Useful GitRrpo](#other-useful-gitrepo)
 
 
 
@@ -40,12 +45,27 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Books       	  |	Mathematics for Machine Learning							 | [mml-book](https://mml-book.github.io/book/mml-book.pdf)		 |
  |        	      |															     | 					 											 | 
  |        	      |															     | 					 											 |
+## Mathematics
+
+
+## Machine Learning
+
+
+## Deep Learning
+
+
+## Natural language processing 
+
+
+## Books
+
  
- 
-## ML Paper
+## Other Useful Websites
 
 1.	[Papers with Code](https://paperswithcode.com/sota)
 2.	[Two Minute Papers - Youtube](https://www.youtube.com/c/K%C3%A1rolyZsolnai/videos)
+
+## Other Useful GitRrpo
 
 
 
