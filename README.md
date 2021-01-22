@@ -76,7 +76,8 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Title and Source                                             | Link                               				         |
  |------------------------------------------------------------  | -----------------------------------------------------------|
  | Mathematics for Machine Learning							    | [mml-book](https://mml-book.github.io/book/mml-book.pdf)	 |
-
+ | Natural Language Processing with Python - NLTK               | [NLTK](https://www.nltk.org/book/)						 |
+ | Deep Learning by Ian Goodfellow             					| [Deep-Learning](https://www.deeplearningbook.org/)		 |
 
  
 ## Other Useful Websites
