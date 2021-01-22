@@ -83,11 +83,12 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 
 1.	[Papers with Code](https://paperswithcode.com/sota)
 2.	[Two Minute Papers - Youtube](https://www.youtube.com/c/K%C3%A1rolyZsolnai/videos)
+3.  [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/2020/)
 
 ## Other Useful GitRepo
 
 1. [Applied-ml - Papers and blogs by organizations ](https://github.com/eugeneyan/applied-ml)
 2. [List Machine learning Python libraries](https://github.com/ml-tooling/best-of-ml-python)
-3. [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/2020/)
+
 
 
