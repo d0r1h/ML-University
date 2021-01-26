@@ -47,8 +47,11 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Title and Source                                             | Link                               				           |
  |------------------------------------------------------------  | -------------------------------------------------------------|
  | Machine Learning (CS229) **Stanford**						| [WebSite](http://cs229.stanford.edu/syllabus-spring2020.html)|
+ | Introduction to Machine Learning **MIT** 					| [WebSite](https://tinyurl.com/ybl6udcr)					   |
  | Machine Learning Systems Design 2021 (CS329S) **Stanford**   | [WebSite](https://stanford-cs329s.github.io/syllabus.html)   |
- | Applied Machine Learning 2020 (CS5787) **Cornell Tech**      | [YouTube](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83) 
+ | Applied Machine Learning 2020 (CS5787) **Cornell Tech**      | [YouTube](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
+ | Machine Learning for Healthcare **MIT** 						| [WebSite](https://tinyurl.com/yxgeesdf)					   |
+ 
 
 ## Deep Learning
  
