@@ -44,21 +44,23 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 
 ## Machine Learning
 
- | Title and Source                                             | Link                               				          |
+ | Title and Source                                             | Link                               				           |
  |------------------------------------------------------------  | -------------------------------------------------------------|
  | Machine Learning (CS229) **Stanford**						| [WebSite](http://cs229.stanford.edu/syllabus-spring2020.html)|
-
+ | Machine Learning Systems Design 2021 (CS329S) **Stanford**   | [WebSite](https://stanford-cs329s.github.io/syllabus.html)   |
+ | Applied Machine Learning 2020 (CS5787) **Cornell Tech**      | [YouTube](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83) 
 
 ## Deep Learning
  
  
- | Title and Source                                             | Link                               				          |
+ | Title and Source                                             | Link                               				           |
  |------------------------------------------------------------  | -------------------------------------------------------------|
- | Introduction to Deep Learning(6.S191) **MIT**		 		| [YouTube](https://tinyurl.com/y2jmc89y)					  |
- | Deep Learning **NYU**					 					| [WebSite](https://atcold.github.io/pytorch-Deep-Learning/)	  |
- | Deep Learning Lecture Series	**DeepMind x UCL**			    | [YouTube](https://tinyurl.com/create.php)   				  |
+ | Introduction to Deep Learning(6.S191) **MIT**		 		| [YouTube](https://tinyurl.com/y2jmc89y)					   |
+ | Deep Learning **NYU**					 					| [WebSite](https://atcold.github.io/pytorch-Deep-Learning/)   |
+ | Deep Learning Lecture Series	**DeepMind x UCL**			    | [YouTube](https://tinyurl.com/create.php)   				   |
  | Deep Learning (CS230) **Stanford**						    | [WebSite](https://cs230.stanford.edu/lecture/)               | 
  | CNN for Visual Recognition(CS231n) **Stanford**    		    | [WebSite-2020](https://cs231n.github.io/)  [YouTube-2017](https://tinyurl.com/y2gghbvs)|
+ | Full Stack Deep Learning   									| [WebSite](https://course.fullstackdeeplearning.com/)		   |
 
 
 
@@ -86,6 +88,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 1.	[Papers with Code](https://paperswithcode.com/sota)
 2.	[Two Minute Papers - Youtube](https://www.youtube.com/c/K%C3%A1rolyZsolnai/videos)
 3.  [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/2020/)
+4.  [Workera :  Measure data-AI skills](https://workera.ai/)
 
 ## Other Useful GitRepo
 
