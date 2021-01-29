@@ -51,6 +51,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Machine Learning Systems Design 2021 (CS329S) **Stanford**   | [WebSite](https://stanford-cs329s.github.io/syllabus.html)   |
  | Applied Machine Learning 2020 (CS5787) **Cornell Tech**      | [YouTube](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
  | Machine Learning for Healthcare **MIT** 						| [WebSite](https://tinyurl.com/yxgeesdf)					   |
+ | Machine Learning for Trading **Georgia Tech**				| [WebSite](https://lucylabs.gatech.edu/ml4t/)				   |	
  
 
 ## Deep Learning
