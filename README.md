@@ -42,6 +42,10 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 ## Mathematics
 
 
+ | Title and Source                                             | Link                               				          |
+ |------------------------------------------------------------  | -------------------------------------------------------------
+ | Statistics in Machine Learning (Krish Naik)                  | [YouTube](https://www.youtube.com/playlist?list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO)
+
 ## Machine Learning
 
  | Title and Source                                             | Link                               				           |
