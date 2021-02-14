@@ -98,10 +98,12 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 3.  [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/2020/)
 4.  [Workera :  Measure data-AI skills](https://workera.ai/)
 
+
 ## Other Useful GitRepo
 
 1. [Applied-ml - Papers and blogs by organizations ](https://github.com/eugeneyan/applied-ml)
 2. [List Machine learning Python libraries](https://github.com/ml-tooling/best-of-ml-python)
+3. [ML From Scratch - Implementations of models/algorithms](https://github.com/eriklindernoren/ML-From-Scratch)
 
 
 
