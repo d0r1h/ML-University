@@ -86,6 +86,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Title and Source                                             | Link                               				         |
  |------------------------------------------------------------  | -----------------------------------------------------------|
  | Mathematics for Machine Learning							    | [mml-book](https://mml-book.github.io/book/mml-book.pdf)	 |
+ | Think Stats 													| [Think Stats](https://greenteapress.com/wp/think-stats-2e/)
  | Python Data Science Handbook                                 | [Python For DS](https://jakevdp.github.io/PythonDataScienceHandbook/)|
  | Natural Language Processing with Python - NLTK               | [NLTK](https://www.nltk.org/book/)						 |
  | Deep Learning by Ian Goodfellow             					| [deeplearningbook](https://www.deeplearningbook.org/)		 |
