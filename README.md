@@ -85,6 +85,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 
  | Title and Source                                             | Link                               				         |
  |------------------------------------------------------------  | -----------------------------------------------------------|
+ | Scientific Python Lectures		 							[ScipyLectures](https://scipy-lectures.org/_downloads/ScipyLectures-simple.pdf)|
  | Mathematics for Machine Learning							    | [mml-book](https://mml-book.github.io/book/mml-book.pdf)	 |
  | An Introduction to Statistical Learning                      | [statlearning](https://www.statlearning.com/)
  | Think Stats 													| [Think Stats](https://greenteapress.com/wp/think-stats-2e/)
