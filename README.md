@@ -36,6 +36,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Elements of AI :  Part-1                                     | [WebSite](https://course.elementsofai.com/)				  |
  | Elements of AI :  Part-2                                     | [WebSite](https://buildingai.elementsofai.com/) 			  |
  | CS50’s Introduction to AI	**Harvard**			            | [Cs50 WebSite](https://cs50.harvard.edu/ai/2020/)			  |
+ | Practical Data Ethics										| [fast.ai](https://ethics.fast.ai/)
 
  
 
@@ -45,6 +46,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Title and Source                                             | Link                               				          |
  |------------------------------------------------------------  | -------------------------------------------------------------
  | Statistics in Machine Learning (Krish Naik)                  | [YouTube](https://www.youtube.com/playlist?list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO)
+ | Computational Linear Algebra for Coders						| [fast.ai](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
 
 ## Machine Learning
 
@@ -56,6 +58,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Applied Machine Learning 2020 (CS5787) **Cornell Tech**      | [YouTube](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
  | Machine Learning for Healthcare **MIT** 						| [WebSite](https://tinyurl.com/yxgeesdf)					   |
  | Machine Learning for Trading **Georgia Tech**				| [WebSite](https://lucylabs.gatech.edu/ml4t/)				   |	
+ | Introduction to Machine Learning for Coders					| [fast.ai](https://course18.fast.ai/ml.html)
  
 
 ## Deep Learning
@@ -69,6 +72,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Deep Learning (CS230) **Stanford**						    | [WebSite](https://cs230.stanford.edu/lecture/)               | 
  | CNN for Visual Recognition(CS231n) **Stanford**    		    | [WebSite-2020](https://cs231n.github.io/)  [YouTube-2017](https://tinyurl.com/y2gghbvs)|
  | Full Stack Deep Learning   									| [WebSite](https://course.fullstackdeeplearning.com/)		   |
+ | Practical Deep Learning for Coders, v3                       | [fast.ai](https://course19.fast.ai/index.html)
 
 
 
@@ -78,6 +82,9 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | ------------------------------------------------------------ | -----------------------------------------------------------|
  | NLP - Krish Naik 				                            | [YouTube](https://www.youtube.com/playlist?list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm)
  | NLP with Deep Learning(CS224N) 2019 **Stanford**     		| [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+ | A Code-First Introduction to Natural Language Processing     | [fast.ai](https://www.fast.ai/2019/07/08/fastai-nlp/)|
+ | CMU Neural Nets for NLP 2021  **Carnegie Mellon University** | [YouTube](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV)|
+ | Speech and Language Processing **Stanford** 					| [WebSite](https://web.stanford.edu/~jurafsky/slp3/)
 
 
 ## Books
