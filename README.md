@@ -38,6 +38,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | CS50’s Introduction to AI	**Harvard**			            | [Cs50 WebSite](https://cs50.harvard.edu/ai/2020/)			  |
  | Intro to Computational Thinking and Data Science **MIT**     | [WebSite](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
  | Practical Data Ethics										| [fast.ai](https://ethics.fast.ai/)
+ | Machine learning Mastery Getting Started 					| [machinelearningmastery](https://machinelearningmastery.com/start-here/)
 
  
 
