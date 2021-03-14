@@ -71,6 +71,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  |------------------------------------------------------------  | -------------------------------------------------------------|
  | Introduction to Deep Learning(6.S191) **MIT**		 		| [YouTube](https://tinyurl.com/y2jmc89y)					   |
  | Deep Learning **NYU**					 					| [WebSite](https://atcold.github.io/pytorch-Deep-Learning/)   |
+ | Deep Learning (CS182) **UC Berkeley**						| [YouTube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
  | Deep Learning Lecture Series	**DeepMind x UCL**			    | [YouTube](https://tinyurl.com/create.php)   				   |
  | Deep Learning (CS230) **Stanford**						    | [WebSite](https://cs230.stanford.edu/lecture/)               | 
  | CNN for Visual Recognition(CS231n) **Stanford**    		    | [WebSite-2020](https://cs231n.github.io/)  [YouTube-2017](https://tinyurl.com/y2gghbvs)|
