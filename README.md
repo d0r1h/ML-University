@@ -1,7 +1,8 @@
 # Machine Learning University
 
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./contribute.md) [![HitCount](http://hits.dwyl.com/{d0r1h}/{ML-University}.svg)](http://hits.dwyl.com/{d0r1h}/{ML-University})
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./contribute.md)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fd0r1h%2FML-University&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 Machine Learning Open Source University is an IDEA of free-learning of a ML enthusiast for all other ML enthusiast
@@ -94,10 +95,10 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 
  | Title and Source                                             | Link                               				         |
  |------------------------------------------------------------  | -----------------------------------------------------------|
- | Scientific Python Lectures		 							[ScipyLectures](https://scipy-lectures.org/_downloads/ScipyLectures-simple.pdf)|
+ | Scientific Python Lectures		 							| [ScipyLectures](https://scipy-lectures.org/_downloads/ScipyLectures-simple.pdf)|
  | Mathematics for Machine Learning							    | [mml-book](https://mml-book.github.io/book/mml-book.pdf)	 |
- | An Introduction to Statistical Learning                      | [statlearning](https://www.statlearning.com/)
- | Think Stats 													| [Think Stats](https://greenteapress.com/wp/think-stats-2e/)
+ | An Introduction to Statistical Learning                      | [statlearning](https://www.statlearning.com/)              |
+ | Think Stats 													| [Think Stats](https://greenteapress.com/wp/think-stats-2e/)|
  | Python Data Science Handbook                                 | [Python For DS](https://jakevdp.github.io/PythonDataScienceHandbook/)|
  | Natural Language Processing with Python - NLTK               | [NLTK](https://www.nltk.org/book/)						 |
  | Deep Learning by Ian Goodfellow             					| [deeplearningbook](https://www.deeplearningbook.org/)		 |
