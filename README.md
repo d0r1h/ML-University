@@ -50,6 +50,8 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  |------------------------------------------------------------  | -------------------------------------------------------------
  | Statistics in Machine Learning (Krish Naik)                  | [YouTube](https://www.youtube.com/playlist?list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO)
  | Computational Linear Algebra for Coders						| [fast.ai](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
+ | Linear Algebra  **MIT**										| [WebSite](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+18.06SC+2T2019/course/)
+
 
 ## Machine Learning
 
