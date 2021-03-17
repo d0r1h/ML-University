@@ -79,7 +79,8 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Deep Learning (CS230) **Stanford**						    | [WebSite](https://cs230.stanford.edu/lecture/)               | 
  | CNN for Visual Recognition(CS231n) **Stanford**    		    | [WebSite-2020](https://cs231n.github.io/)  [YouTube-2017](https://tinyurl.com/y2gghbvs)|
  | Full Stack Deep Learning   									| [WebSite](https://course.fullstackdeeplearning.com/)		   |
- | Practical Deep Learning for Coders, v3                       | [fast.ai](https://course19.fast.ai/index.html)
+ | Practical Deep Learning for Coders, v3                       | [fast.ai](https://course19.fast.ai/index.html)			   |
+
 
 
 
@@ -106,6 +107,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Python Data Science Handbook                                 | [Python For DS](https://jakevdp.github.io/PythonDataScienceHandbook/)|
  | Natural Language Processing with Python - NLTK               | [NLTK](https://www.nltk.org/book/)						 |
  | Deep Learning by Ian Goodfellow             					| [deeplearningbook](https://www.deeplearningbook.org/)		 |
+ | Dive into Deep Learning 										| [d2l.ai](https://d2l.ai/index.html)
 
  
 ## Other Useful Websites
