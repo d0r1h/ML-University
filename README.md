@@ -116,7 +116,8 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 2.	[Two Minute Papers - Youtube](https://www.youtube.com/c/K%C3%A1rolyZsolnai/videos)
 3.  [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/2020/)
 4.  [Workera :  Measure data-AI skills](https://workera.ai/)
-
+5.  [Machine learning mastery](https://machinelearningmastery.com/start-here/)
+6.  [From Data to viz: Guide for your graph](https://www.data-to-viz.com/)
 
 ## Other Useful GitRepo
 
