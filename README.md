@@ -108,6 +108,8 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Natural Language Processing with Python - NLTK               | [NLTK](https://www.nltk.org/book/)						 |
  | Deep Learning by Ian Goodfellow             					| [deeplearningbook](https://www.deeplearningbook.org/)		 |
  | Dive into Deep Learning 										| [d2l.ai](https://d2l.ai/index.html)
+ | Approaching (Almost) Any Machine Learning Problem    		| [AAANLP](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf)|
+ 
 
  
 ## Other Useful Websites
