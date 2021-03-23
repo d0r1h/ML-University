@@ -65,7 +65,8 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Machine Learning for Healthcare **MIT** 						| [WebSite](https://tinyurl.com/yxgeesdf)					   |
  | Machine Learning for Trading **Georgia Tech**				| [WebSite](https://lucylabs.gatech.edu/ml4t/)				   |	
  | Introduction to Machine Learning for Coders					| [fast.ai](https://course18.fast.ai/ml.html)
- 
+ | Machine Learning Crash Course								| [Google AI](https://developers.google.com/machine-learning/crash-course)
+ 	
 
 ## Deep Learning
  
@@ -126,6 +127,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 1. [Applied-ml - Papers and blogs by organizations ](https://github.com/eugeneyan/applied-ml)
 2. [List Machine learning Python libraries](https://github.com/ml-tooling/best-of-ml-python)
 3. [ML From Scratch - Implementations of models/algorithms](https://github.com/eriklindernoren/ML-From-Scratch)
+4. [What the f*ck Python?](https://github.com/satwikkansal/wtfpython)
 
 
 
