@@ -40,6 +40,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Intro to Computational Thinking and Data Science **MIT**     | [WebSite](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
  | Practical Data Ethics										| [fast.ai](https://ethics.fast.ai/)
  | Machine learning Mastery Getting Started 					| [machinelearningmastery](https://machinelearningmastery.com/start-here/)
+ | Design and Analysis of Algorithms **MIT**					| [ocw.mit.edu](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
 
  
 
@@ -65,7 +66,8 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Machine Learning for Healthcare **MIT** 						| [WebSite](https://tinyurl.com/yxgeesdf)					   |
  | Machine Learning for Trading **Georgia Tech**				| [WebSite](https://lucylabs.gatech.edu/ml4t/)				   |	
  | Introduction to Machine Learning for Coders					| [fast.ai](https://course18.fast.ai/ml.html)
- | Machine Learning Crash Course								| [Google AI](https://developers.google.com/machine-learning/crash-course)
+ | Machine Learning Crash Course								| [Google AI](https://developers.google.com/machine-learning/crash-course)|
+ | Machine Learning with Python 								| [freecodecamp](https://www.freecodecamp.org/learn/machine-learning-with-python/)
  	
 
 ## Deep Learning
@@ -110,10 +112,12 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Deep Learning by Ian Goodfellow             					| [deeplearningbook](https://www.deeplearningbook.org/)		 |
  | Dive into Deep Learning 										| [d2l.ai](https://d2l.ai/index.html)
  | Approaching (Almost) Any Machine Learning Problem    		| [AAANLP](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf)|
+ | Neural networks and Deep learning							| [neuralnetworksanddeeplearning](http://neuralnetworksanddeeplearning.com/index.html)
  
 
  
 ## Other Useful Websites
+
 
 1.	[Papers with Code](https://paperswithcode.com/sota)
 2.	[Two Minute Papers - Youtube](https://www.youtube.com/c/K%C3%A1rolyZsolnai/videos)
@@ -121,6 +125,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 4.  [Workera :  Measure data-AI skills](https://workera.ai/)
 5.  [Machine learning mastery](https://machinelearningmastery.com/start-here/)
 6.  [From Data to viz: Guide for your graph](https://www.data-to-viz.com/)
+7.  [datatalks club](https://datatalks.club/)
 
 ## Other Useful GitRepo
 
@@ -128,8 +133,10 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 2. [List Machine learning Python libraries](https://github.com/ml-tooling/best-of-ml-python)
 3. [ML From Scratch - Implementations of models/algorithms](https://github.com/eriklindernoren/ML-From-Scratch)
 4. [What the f*ck Python?](https://github.com/satwikkansal/wtfpython)
-
+5. [scikit-learn user guide: step-step approach](https://scikit-learn.org/stable/user_guide.html)
+6. [NLP Tutorial Code with DL](https://github.com/graykode/nlp-tutorial)
 
 [This web portal](59r.gitbook.io/ml-university/) is under development, once the beta version gets ready it will be open to the public.
+
 ![ml-university](https://github.com/d0r1h/ML-University/blob/master/images/ml_university.png)
 
