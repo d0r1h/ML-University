@@ -67,7 +67,8 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Machine Learning for Trading **Georgia Tech**				| [WebSite](https://lucylabs.gatech.edu/ml4t/)				   |	
  | Introduction to Machine Learning for Coders					| [fast.ai](https://course18.fast.ai/ml.html)
  | Machine Learning Crash Course								| [Google AI](https://developers.google.com/machine-learning/crash-course)|
- | Machine Learning with Python 								| [freecodecamp](https://www.freecodecamp.org/learn/machine-learning-with-python/)
+ | Machine Learning with Python 								| [freecodecamp](https://www.freecodecamp.org/learn/machine-learning-with-python/)|
+ | Deep Reinforcement Learning:CS285 **UC Berkeley**			| [YouTube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)
  	
 
 ## Deep Learning
@@ -83,7 +84,8 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | CNN for Visual Recognition(CS231n) **Stanford**    		    | [WebSite-2020](https://cs231n.github.io/)  [YouTube-2017](https://tinyurl.com/y2gghbvs)|
  | Full Stack Deep Learning   									| [WebSite](https://course.fullstackdeeplearning.com/)		   |
  | Practical Deep Learning for Coders, v3                       | [fast.ai](https://course19.fast.ai/index.html)			   |
-
+ | Deep Learning Crash Course 2021 d2l.ai 						| [YouTube](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQsDaBNtcFwMQuJw_djFnbd)|
+ | Deep Learning for Computer Vision **Michigan**				| [WebSite](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/)|
 
 
 
@@ -91,11 +93,16 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 
  | Title and Source                                             | Link                               				          |
  | ------------------------------------------------------------ | -----------------------------------------------------------|
+ | Natural Language Processing AWS								| [YouTube](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw)
  | NLP - Krish Naik 				                            | [YouTube](https://www.youtube.com/playlist?list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm)
  | NLP with Deep Learning(CS224N) 2019 **Stanford**     		| [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
  | A Code-First Introduction to Natural Language Processing     | [fast.ai](https://www.fast.ai/2019/07/08/fastai-nlp/)|
  | CMU Neural Nets for NLP 2021  **Carnegie Mellon University** | [YouTube](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV)|
- | Speech and Language Processing **Stanford** 					| [WebSite](https://web.stanford.edu/~jurafsky/slp3/)
+ | Speech and Language Processing **Stanford** 					| [WebSite](https://web.stanford.edu/~jurafsky/slp3/) |
+ | NLP with Dan Jurafsky and Chris Manning, 2012 **Stanford**   | [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ)|
+ | Intro to NLP with spaCy   									| [YouTube](https://www.youtube.com/playlist?list=PLBmcuObd5An559HbDr_alBnwVsGq-7uTF)|
+ | Advanced NLP with spaCy 										| [website](https://course.spacy.io/en/)
+  
 
 
 ## Books
