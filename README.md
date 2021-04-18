@@ -68,7 +68,9 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Introduction to Machine Learning for Coders					| [fast.ai](https://course18.fast.ai/ml.html)
  | Machine Learning Crash Course								| [Google AI](https://developers.google.com/machine-learning/crash-course)|
  | Machine Learning with Python 								| [freecodecamp](https://www.freecodecamp.org/learn/machine-learning-with-python/)|
- | Deep Reinforcement Learning:CS285 **UC Berkeley**			| [YouTube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)
+ | Deep Reinforcement Learning:CS285 **UC Berkeley**			| [YouTube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)|
+ | Probabilistic Machine Learning **University of Tübingen**    | [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)|
+ | Machine Learning with Graphs(CS224W) **Stanford** 			| [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)|
  	
 
 ## Deep Learning
