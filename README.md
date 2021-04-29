@@ -58,7 +58,8 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 
  | Title and Source                                             | Link                               				           |
  |------------------------------------------------------------  | -------------------------------------------------------------|
- | Open Machine Learning Course 								| [mlcourse.ai](https://mlcourse.ai/)
+ | Introduction to Machine Learning with scikit-learn 			| [dataschool](https://courses.dataschool.io/introduction-to-machine-learning-with-scikit-learn)|
+ | Open Machine Learning Course 								| [mlcourse.ai](https://mlcourse.ai/)						   |
  | Machine Learning (CS229) **Stanford**						| [WebSite](http://cs229.stanford.edu/syllabus-spring2020.html)|
  | Introduction to Machine Learning **MIT** 					| [WebSite](https://tinyurl.com/ybl6udcr)					   |
  | Machine Learning Systems Design 2021 (CS329S) **Stanford**   | [WebSite](https://stanford-cs329s.github.io/syllabus.html)   |
@@ -135,6 +136,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 5.  [Machine learning mastery](https://machinelearningmastery.com/start-here/)
 6.  [From Data to viz: Guide for your graph](https://www.data-to-viz.com/)
 7.  [datatalks club](https://datatalks.club/)
+8.  [Machine Learning for Art](https://ml4a.net/fundamentals/)
 
 ## Other Useful GitRepo
 
