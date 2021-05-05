@@ -104,7 +104,8 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Speech and Language Processing **Stanford** 					| [WebSite](https://web.stanford.edu/~jurafsky/slp3/) |
  | NLP with Dan Jurafsky and Chris Manning, 2012 **Stanford**   | [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ)|
  | Intro to NLP with spaCy   									| [YouTube](https://www.youtube.com/playlist?list=PLBmcuObd5An559HbDr_alBnwVsGq-7uTF)|
- | Advanced NLP with spaCy 										| [website](https://course.spacy.io/en/)
+ | Advanced NLP with spaCy 										| [website](https://course.spacy.io/en/)                                             |
+ | Applied Language Technology 									| [website](https://applied-language-technology.readthedocs.io/en/latest/)
   
 
 
