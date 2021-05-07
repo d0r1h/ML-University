@@ -72,6 +72,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Deep Reinforcement Learning:CS285 **UC Berkeley**			| [YouTube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)|
  | Probabilistic Machine Learning **University of Tübingen**    | [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)|
  | Machine Learning with Graphs(CS224W) **Stanford** 			| [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)|
+ | Machine Learning in Production **CMU**						| [WebSite](https://ckaestne.github.io/seai/)
  	
 
 ## Deep Learning
