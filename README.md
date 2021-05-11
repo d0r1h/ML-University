@@ -90,6 +90,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Practical Deep Learning for Coders, v3                       | [fast.ai](https://course19.fast.ai/index.html)			   |
  | Deep Learning Crash Course 2021 d2l.ai 						| [YouTube](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQsDaBNtcFwMQuJw_djFnbd)|
  | Deep Learning for Computer Vision **Michigan**				| [WebSite](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/)|
+ | Neural Networks from Scratch in Python by Sentdex			| [YouTube](https://www.youtube.com/playlist?app=desktop&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)|
 
 
 
