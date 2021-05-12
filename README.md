@@ -51,7 +51,11 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  |------------------------------------------------------------  | -------------------------------------------------------------
  | Statistics in Machine Learning (Krish Naik)                  | [YouTube](https://www.youtube.com/playlist?list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO)
  | Computational Linear Algebra for Coders						| [fast.ai](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
- | Linear Algebra  **MIT**										| [WebSite](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+18.06SC+2T2019/course/)
+ | Linear Algebra  **MIT**										| [WebSite](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+18.06SC+2T2019/course/)|
+ | Statistics by zstatistics									| [WebSite](https://www.zstatistics.com/videos)|
+ | Essence of linear algebra by 3Blue1Brown						| [YouTube](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)|
+ | SEEING THEORY (Visual Probability)	**brown**    		    | [WebSite](https://seeing-theory.brown.edu/basic-probability/index.html)|
+
 
 
 ## Machine Learning
@@ -140,7 +144,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 6.  [From Data to viz: Guide for your graph](https://www.data-to-viz.com/)
 7.  [datatalks club](https://datatalks.club/)
 8.  [Machine Learning for Art](https://ml4a.net/fundamentals/)
-9.  [zstatistics](https://www.zstatistics.com/videos)
+
 
 ## Other Useful GitRepo
 
