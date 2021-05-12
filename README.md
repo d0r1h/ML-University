@@ -55,6 +55,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Statistics by zstatistics									| [WebSite](https://www.zstatistics.com/videos)|
  | Essence of linear algebra by 3Blue1Brown						| [YouTube](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)|
  | SEEING THEORY (Visual Probability)	**brown**    		    | [WebSite](https://seeing-theory.brown.edu/basic-probability/index.html)|
+ | Matrix Methods in Data Analysis,and Machine Learning **MIT** | [WebSite](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
 
 
 
