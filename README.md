@@ -91,7 +91,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Deep Learning Lecture Series	**DeepMind x UCL**			    | [YouTube](https://tinyurl.com/create.php)   				   |
  | Deep Learning (CS230) **Stanford**						    | [WebSite](https://cs230.stanford.edu/lecture/)               | 
  | CNN for Visual Recognition(CS231n) **Stanford**    		    | [WebSite-2020](https://cs231n.github.io/)  [YouTube-2017](https://tinyurl.com/y2gghbvs)|
- | Full Stack Deep Learning   									| [WebSite](https://course.fullstackdeeplearning.com/)		   |
+ | Full Stack Deep Learning   									| [WebSite](https://course.fullstackdeeplearning.com/)[2021](https://fullstackdeeplearning.com/spring2021/)|
  | Practical Deep Learning for Coders, v3                       | [fast.ai](https://course19.fast.ai/index.html)			   |
  | Deep Learning Crash Course 2021 d2l.ai 						| [YouTube](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQsDaBNtcFwMQuJw_djFnbd)|
  | Deep Learning for Computer Vision **Michigan**				| [WebSite](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/)|
