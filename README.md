@@ -113,7 +113,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Intro to NLP with spaCy   									| [YouTube](https://www.youtube.com/playlist?list=PLBmcuObd5An559HbDr_alBnwVsGq-7uTF)|
  | Advanced NLP with spaCy 										| [website](https://course.spacy.io/en/)                                             |
  | Applied Language Technology 									| [website](https://applied-language-technology.readthedocs.io/en/latest/)|
- | Advanced Natural Language Processing **Umass**				| [website](https://people.cs.umass.edu/~miyyer/cs685/schedule.html)\
+ | Advanced Natural Language Processing **Umass**				| [website](https://people.cs.umass.edu/~miyyer/cs685/schedule.html)|
   
 
 
