@@ -18,8 +18,9 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 4. [Deep Learning](#deep-learning)
 5. [Natural language processing](#natural-language-processing)
 6. [Books](#books)
-7. [Other Useful Websites](#other-useful-websites)
-8. [Other Useful GitRrpo](#other-useful-gitrepo)
+7. [ML in Production](#production)
+8. [Other Useful Websites](#other-useful-websites)
+9. [Other Useful GitRrpo](#other-useful-gitrepo)
 
 
 
@@ -77,7 +78,8 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Deep Reinforcement Learning:CS285 **UC Berkeley**			| [YouTube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)|
  | Probabilistic Machine Learning **University of Tübingen**    | [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)|
  | Machine Learning with Graphs(CS224W) **Stanford** 			| [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)|
- | Machine Learning in Production **CMU**						| [WebSite](https://ckaestne.github.io/seai/)
+ | Machine Learning in Production **CMU**						| [WebSite](https://ckaestne.github.io/seai/)|
+ | Machine Learning & Deep Learning Fundamentals                | [deeplizard](https://deeplizard.com/learn/video/gZmobeGL0Yg)
  	
 
 ## Deep Learning
@@ -96,6 +98,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Deep Learning Crash Course 2021 d2l.ai 						| [YouTube](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQsDaBNtcFwMQuJw_djFnbd)|
  | Deep Learning for Computer Vision **Michigan**				| [WebSite](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/)|
  | Neural Networks from Scratch in Python by Sentdex			| [YouTube](https://www.youtube.com/playlist?app=desktop&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)|
+ | Keras - Python Deep Learning Neural Network API				| [deeplizard](https://deeplizard.com/learn/video/RznKVRTFkBY)
 
 
 
@@ -133,6 +136,15 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Approaching (Almost) Any Machine Learning Problem    		| [AAANLP](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf)|
  | Neural networks and Deep learning							| [neuralnetworksanddeeplearning](http://neuralnetworksanddeeplearning.com/index.html)
  
+ 
+ 
+## ML in Production
+
+
+ | Title and Source                                             | Link                               				         |
+ |------------------------------------------------------------  | -----------------------------------------------------------|
+ | 	Introduction to Docker       	 							| [Docker](https://carpentries-incubator.github.io/docker-introduction/)|
+  
 
  
 ## Other Useful Websites
