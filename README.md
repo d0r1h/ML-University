@@ -21,6 +21,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 7. [ML in Production](#ML-in-Production)
 8. [Other Useful Websites](#other-useful-websites)
 9. [Other Useful GitRrpo](#other-useful-gitrepo)
+10.[Blogs and Webinar](#blogs-and-webinar) 
 
 
 
@@ -170,6 +171,12 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 4. [What the f*ck Python?](https://github.com/satwikkansal/wtfpython)
 5. [scikit-learn user guide: step-step approach](https://scikit-learn.org/stable/user_guide.html)
 6. [NLP Tutorial Code with DL](https://github.com/graykode/nlp-tutorial)
+
+## Blogs and Webinar
+1. [Recommendation algorithms and System design](https://www.theinsaneapp.com/2021/03/system-design-and-recommendation-algorithms.html?m=1)
+2. [Machine Learning System Design](https://becominghuman.ai/machine-learning-system-design-f2f4018f2f8?gi=942874b21d0e)
+
+
 
 [This web portal](59r.gitbook.io/ml-university/) is under development, once the beta version gets ready it will be open to the public.
 
