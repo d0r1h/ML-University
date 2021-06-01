@@ -21,7 +21,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 7. [ML in Production](#ML-in-Production)
 8. [Other Useful Websites](#other-useful-websites)
 9. [Other Useful GitRrpo](#other-useful-gitrepo)
-10.[Blogs and Webinar](#blogs-and-webinar) 
+10. [Blogs and Webinar](#blogs-and-webinar) 
 
 
 
