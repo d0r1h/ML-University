@@ -57,6 +57,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Essence of linear algebra by 3Blue1Brown						| [YouTube](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)|
  | SEEING THEORY (Visual Probability)	**brown**    		    | [WebSite](https://seeing-theory.brown.edu/basic-probability/index.html)|
  | Matrix Methods in Data Analysis,and Machine Learning **MIT** | [WebSite](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
+ | Math for Machine Learning 									| [YouTube](https://www.youtube.com/playlist?app=desktop&list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg)
 
 
 
@@ -134,7 +135,8 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Deep Learning by Ian Goodfellow             					| [deeplearningbook](https://www.deeplearningbook.org/)		 |
  | Dive into Deep Learning 										| [d2l.ai](https://d2l.ai/index.html)
  | Approaching (Almost) Any Machine Learning Problem    		| [AAANLP](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf)|
- | Neural networks and Deep learning							| [neuralnetworksanddeeplearning](http://neuralnetworksanddeeplearning.com/index.html)
+ | Neural networks and Deep learning							| [neuralnetworksanddeeplearning](http://neuralnetworksanddeeplearning.com/index.html)|
+ | AutoML: Methods, Systems, Challenges (first book on AutoML)  | [automl](https://www.automl.org/book/)
  
  
  
