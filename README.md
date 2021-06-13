@@ -178,7 +178,3 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 
 
 
-[This web portal](59r.gitbook.io/ml-university/) is under development, once the beta version gets ready it will be open to the public.
-
-![ml-university](https://github.com/d0r1h/ML-University/blob/master/images/ml_university.png)
-
