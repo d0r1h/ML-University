@@ -137,7 +137,8 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Dive into Deep Learning 										| [d2l.ai](https://d2l.ai/index.html)
  | Approaching (Almost) Any Machine Learning Problem    		| [AAANLP](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf)|
  | Neural networks and Deep learning							| [neuralnetworksanddeeplearning](http://neuralnetworksanddeeplearning.com/index.html)|
- | AutoML: Methods, Systems, Challenges (first book on AutoML)  | [automl](https://www.automl.org/book/)
+ | AutoML: Methods, Systems, Challenges (first book on AutoML)  | [automl](https://www.automl.org/book/)|
+ | Feature Engineering and Selection	 						| [bookdown.org](https://bookdown.org/max/FES/)|
  
  
  
