@@ -17,11 +17,12 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 3. [Machine Learning](#machine-learning)
 4. [Deep Learning](#deep-learning)
 5. [Natural language processing](#natural-language-processing)
-6. [Books](#books)
-7. [ML in Production](#ML-in-Production)
-8. [Other Useful Websites](#other-useful-websites)
-9. [Other Useful GitRrpo](#other-useful-gitrepo)
-10. [Blogs and Webinar](#blogs-and-webinar) 
+6. [Reinforcement learning](#reinforcement-learning)
+7. [Books](#books)
+8. [ML in Production](#ML-in-Production)
+9. [Other Useful Websites](#other-useful-websites)
+10. [Other Useful GitRrpo](#other-useful-gitrepo)
+11. [Blogs and Webinar](#blogs-and-webinar) 
 
 
 
@@ -121,7 +122,13 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Advanced Natural Language Processing **Umass**				| [website](https://people.cs.umass.edu/~miyyer/cs685/schedule.html)|
   
 
-
+## Reinforcement learning
+ | Title and Source                                             | Link                               				         |
+ |------------------------------------------------------------  | -----------------------------------------------------------|
+ | Reinforcement Learning(CS234)  **Stanford** 					| [YouTube-2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)[WebSite-2021](https://web.stanford.edu/class/cs234/modules.html)
+ | Introduction to reinforcement learning **DeepMind**			| [YouTube-2015](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)|
+ | Reinforcement Learning Course  **DeepMind & UCL**			| [YouTube-2018](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb)|
+ | Advanced Deep Learning & Reinforcement Learning        		| [YouTube](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 ## Books
 
 
