@@ -101,7 +101,9 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Deep Learning Crash Course 2021 d2l.ai 						| [YouTube](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQsDaBNtcFwMQuJw_djFnbd)|
  | Deep Learning for Computer Vision **Michigan**				| [WebSite](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/)|
  | Neural Networks from Scratch in Python by Sentdex			| [YouTube](https://www.youtube.com/playlist?app=desktop&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)|
- | Keras - Python Deep Learning Neural Network API				| [deeplizard](https://deeplizard.com/learn/video/RznKVRTFkBY)
+ | Keras - Python Deep Learning Neural Network API				| [deeplizard](https://deeplizard.com/learn/video/RznKVRTFkBY)|
+ | Reproducible Deep Learning									| [sscardapane.it](https://www.sscardapane.it/teaching/reproducibledl/)|
+
 
 
 
@@ -128,7 +130,9 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Reinforcement Learning(CS234)  **Stanford** 					| [YouTube-2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)[WebSite-2021](https://web.stanford.edu/class/cs234/modules.html)
  | Introduction to reinforcement learning **DeepMind**			| [YouTube-2015](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)|
  | Reinforcement Learning Course  **DeepMind & UCL**			| [YouTube-2018](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb)|
- | Advanced Deep Learning & Reinforcement Learning        		| [YouTube](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+ | Advanced Deep Learning & Reinforcement Learning        		| [YouTube](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)|
+ 
+ 
 ## Books
 
 
@@ -146,6 +150,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Neural networks and Deep learning							| [neuralnetworksanddeeplearning](http://neuralnetworksanddeeplearning.com/index.html)|
  | AutoML: Methods, Systems, Challenges (first book on AutoML)  | [automl](https://www.automl.org/book/)|
  | Feature Engineering and Selection	 						| [bookdown.org](https://bookdown.org/max/FES/)|
+ | Introduction to Machine Learning Interviews Book				| [huyenchip.com](https://huyenchip.com/ml-interviews-book/)
  
  
  
