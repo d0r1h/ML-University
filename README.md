@@ -122,6 +122,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Advanced NLP with spaCy 										| [website](https://course.spacy.io/en/)                                             |
  | Applied Language Technology 									| [website](https://applied-language-technology.readthedocs.io/en/latest/)|
  | Advanced Natural Language Processing **Umass**				| [website](https://people.cs.umass.edu/~miyyer/cs685/schedule.html)|
+ | Huggingface Course											| [huggingface.co](https://huggingface.co/course/chapter1?fw=tf)|
   
 
 ## Reinforcement learning
@@ -150,7 +151,8 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Neural networks and Deep learning							| [neuralnetworksanddeeplearning](http://neuralnetworksanddeeplearning.com/index.html)|
  | AutoML: Methods, Systems, Challenges (first book on AutoML)  | [automl](https://www.automl.org/book/)|
  | Feature Engineering and Selection	 						| [bookdown.org](https://bookdown.org/max/FES/)|
- | Introduction to Machine Learning Interviews Book				| [huyenchip.com](https://huyenchip.com/ml-interviews-book/)
+ | Introduction to Machine Learning Interviews Book				| [huyenchip.com](https://huyenchip.com/ml-interviews-book/)|
+ | Hands-On Machine Learning with R 							| [website](https://bradleyboehmke.github.io/HOML/)
  
  
  
