@@ -103,7 +103,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Neural Networks from Scratch in Python by Sentdex			| [YouTube](https://www.youtube.com/playlist?app=desktop&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)|
  | Keras - Python Deep Learning Neural Network API				| [deeplizard](https://deeplizard.com/learn/video/RznKVRTFkBY)|
  | Reproducible Deep Learning									| [sscardapane.it](https://www.sscardapane.it/teaching/reproducibledl/)|
-
+ | PyTorch Fundamentals 										| [microsoft](https://docs.microsoft.com/en-us/learn/paths/pytorch-fundamentals/)
 
 
 
@@ -152,7 +152,8 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | AutoML: Methods, Systems, Challenges (first book on AutoML)  | [automl](https://www.automl.org/book/)|
  | Feature Engineering and Selection	 						| [bookdown.org](https://bookdown.org/max/FES/)|
  | Introduction to Machine Learning Interviews Book				| [huyenchip.com](https://huyenchip.com/ml-interviews-book/)|
- | Hands-On Machine Learning with R 							| [website](https://bradleyboehmke.github.io/HOML/)
+ | Hands-On Machine Learning with R 							| [website](https://bradleyboehmke.github.io/HOML/)|
+ | Zero to Mastery TensorFlow for Deep Learning Book			| [dev.mrdbourke.com/](https://dev.mrdbourke.com/tensorflow-deep-learning/)|
  
  
  
@@ -186,6 +187,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 4. [What the f*ck Python?](https://github.com/satwikkansal/wtfpython)
 5. [scikit-learn user guide: step-step approach](https://scikit-learn.org/stable/user_guide.html)
 6. [NLP Tutorial Code with DL](https://github.com/graykode/nlp-tutorial)
+7. [awesome-mlops](https://github.com/visenger/awesome-mlops)
 
 ## Blogs and Webinar
 1. [Recommendation algorithms and System design](https://www.theinsaneapp.com/2021/03/system-design-and-recommendation-algorithms.html?m=1)
