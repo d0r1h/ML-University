@@ -177,6 +177,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 6.  [From Data to viz: Guide for your graph](https://www.data-to-viz.com/)
 7.  [datatalks club](https://datatalks.club/)
 8.  [Machine Learning for Art](https://ml4a.net/fundamentals/)
+10. [applyingml](https://applyingml.com/)
 
 
 ## Other Useful GitRepo
