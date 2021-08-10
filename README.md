@@ -103,7 +103,8 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Neural Networks from Scratch in Python by Sentdex			| [YouTube](https://www.youtube.com/playlist?app=desktop&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)|
  | Keras - Python Deep Learning Neural Network API				| [deeplizard](https://deeplizard.com/learn/video/RznKVRTFkBY)|
  | Reproducible Deep Learning									| [sscardapane.it](https://www.sscardapane.it/teaching/reproducibledl/)|
- | PyTorch Fundamentals 										| [microsoft](https://docs.microsoft.com/en-us/learn/paths/pytorch-fundamentals/)
+ | PyTorch Fundamentals 										| [microsoft](https://docs.microsoft.com/en-us/learn/paths/pytorch-fundamentals/)|
+ | Geometric Deep Learing (GDL100)								| [geometricdeeplearning](https://geometricdeeplearning.com/lectures/)
 
 
 
