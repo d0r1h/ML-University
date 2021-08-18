@@ -104,7 +104,8 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Keras - Python Deep Learning Neural Network API				| [deeplizard](https://deeplizard.com/learn/video/RznKVRTFkBY)|
  | Reproducible Deep Learning									| [sscardapane.it](https://www.sscardapane.it/teaching/reproducibledl/)|
  | PyTorch Fundamentals 										| [microsoft](https://docs.microsoft.com/en-us/learn/paths/pytorch-fundamentals/)|
- | Geometric Deep Learing (GDL100)								| [geometricdeeplearning](https://geometricdeeplearning.com/lectures/)
+ | Geometric Deep Learing (GDL100)								| [geometricdeeplearning](https://geometricdeeplearning.com/lectures/)|
+ | Deep learning Neuromatch Academy 							| [neuromatch](https://deeplearning.neuromatch.io/tutorials/intro.html)
 
 
 
