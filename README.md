@@ -82,7 +82,8 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Probabilistic Machine Learning **University of Tübingen**    | [YouTube](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)|
  | Machine Learning with Graphs(CS224W) **Stanford** 			| [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)|
  | Machine Learning in Production **CMU**						| [WebSite](https://ckaestne.github.io/seai/)|
- | Machine Learning & Deep Learning Fundamentals                | [deeplizard](https://deeplizard.com/learn/video/gZmobeGL0Yg)
+ | Machine Learning & Deep Learning Fundamentals                | [deeplizard](https://deeplizard.com/learn/video/gZmobeGL0Yg)|
+ | Interpretability and Explainability in Machine Learning      | [WebSite](https://interpretable-ml-class.github.io/)|
  	
 
 ## Deep Learning
@@ -106,6 +107,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | PyTorch Fundamentals 										| [microsoft](https://docs.microsoft.com/en-us/learn/paths/pytorch-fundamentals/)|
  | Geometric Deep Learing (GDL100)								| [geometricdeeplearning](https://geometricdeeplearning.com/lectures/)|
  | Deep learning Neuromatch Academy 							| [neuromatch](https://deeplearning.neuromatch.io/tutorials/intro.html)
+ | Deep Learning for Molecules and Materials					| [WebSite](https://whitead.github.io/dmol-book/intro.html)|
 
 
 
