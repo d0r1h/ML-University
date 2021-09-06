@@ -134,7 +134,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 
 ## Reinforcement learning
 
- | Title and Source                                             | Link														 |
+ | Title and Source                                             | Link														                                         |
  |------------------------------------------------------------  | -----------------------------------------------------------|
  | Reinforcement Learning(CS234)  **Stanford** 					| [YouTube-2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)|
  | Introduction to reinforcement learning **DeepMind**			| [YouTube-2015](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)|
