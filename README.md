@@ -84,6 +84,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Machine Learning in Production **CMU**						| [WebSite](https://ckaestne.github.io/seai/)|
  | Machine Learning & Deep Learning Fundamentals                | [deeplizard](https://deeplizard.com/learn/video/gZmobeGL0Yg)|
  | Interpretability and Explainability in Machine Learning      | [WebSite](https://interpretable-ml-class.github.io/)|
+ | Practical Machine Learning 2021 **Stanford**					| [WebSite](https://c.d2l.ai/stanford-cs329p/index.html#)|
  	
 
 ## Deep Learning
@@ -108,6 +109,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Geometric Deep Learing (GDL100)								| [geometricdeeplearning](https://geometricdeeplearning.com/lectures/)|
  | Deep learning Neuromatch Academy 							| [neuromatch](https://deeplearning.neuromatch.io/tutorials/intro.html)
  | Deep Learning for Molecules and Materials					| [WebSite](https://whitead.github.io/dmol-book/intro.html)|
+ | Deep Learning course for Vision								| [arthurdouillard.com](https://arthurdouillard.com/deepcourse/)|
 
 
 
@@ -183,7 +185,8 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 7.  [datatalks club](https://datatalks.club/)
 8.  [Machine Learning for Art](https://ml4a.net/fundamentals/)
 10. [applyingml](https://applyingml.com/)
-
+11. [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/index.html#opt4ml)
+12. [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/)
 
 ## Other Useful GitRepo
 
@@ -194,6 +197,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 5. [scikit-learn user guide: step-step approach](https://scikit-learn.org/stable/user_guide.html)
 6. [NLP Tutorial Code with DL](https://github.com/graykode/nlp-tutorial)
 7. [awesome-mlops](https://github.com/visenger/awesome-mlops)
+8. [Text Classification Algorithms: A Survey](https://github.com/kk7nc/Text_Classification)
 
 ## Blogs and Webinar
 1. [Recommendation algorithms and System design](https://www.theinsaneapp.com/2021/03/system-design-and-recommendation-algorithms.html?m=1)
