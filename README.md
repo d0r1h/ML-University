@@ -115,7 +115,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 
 ## Natural language processing 
 
- | Title and Source                                             | Link                               				          |
+ | Title and Source                                             | Link                               				  		   |
  | ------------------------------------------------------------ | -----------------------------------------------------------|
  | Natural Language Processing AWS								| [YouTube](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw)
  | NLP - Krish Naik 				                            | [YouTube](https://www.youtube.com/playlist?list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm)
@@ -133,7 +133,8 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
   
 
 ## Reinforcement learning
- | Title and Source                                             | Link                               				         |
+
+ | Title and Source                                             | Link														 |
  |------------------------------------------------------------  | -----------------------------------------------------------|
  | Reinforcement Learning(CS234)  **Stanford** 					| [YouTube-2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)|
  | Introduction to reinforcement learning **DeepMind**			| [YouTube-2015](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)|
