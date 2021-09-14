@@ -95,7 +95,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Introduction to Deep Learning(6.S191) **MIT**		 		| [YouTube](https://tinyurl.com/y2jmc89y)					   |
  | Deep Learning **NYU**					 					| [WebSite](https://atcold.github.io/pytorch-Deep-Learning/)   |
  | Deep Learning (CS182) **UC Berkeley**						| [YouTube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
- | Deep Learning Lecture Series	**DeepMind x UCL**			    | [YouTube](https://tinyurl.com/create.php)   				   |
+ | Deep Learning Lecture Series	**DeepMind x UCL**			    | [YouTube](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)|
  | Deep Learning (CS230) **Stanford**						    | [WebSite](https://cs230.stanford.edu/lecture/)               | 
  | CNN for Visual Recognition(CS231n) **Stanford**    		    | [WebSite-2020](https://cs231n.github.io/)  [YouTube-2017](https://tinyurl.com/y2gghbvs)|
  | Full Stack Deep Learning   									| [WebSite](https://course.fullstackdeeplearning.com/)[2021](https://fullstackdeeplearning.com/spring2021/)|
@@ -140,6 +140,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Introduction to reinforcement learning **DeepMind**			| [YouTube-2015](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)|
  | Reinforcement Learning Course  **DeepMind & UCL**			| [YouTube-2018](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb)|
  | Advanced Deep Learning & Reinforcement Learning        		| [YouTube](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)|
+ | DeepMind x UCL Reinforcement Learning 2021					| [YouTube](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
  
  
 ## Books
@@ -171,6 +172,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Title and Source                                             | Link                               				         |
  |------------------------------------------------------------  | -----------------------------------------------------------|
  | 	Introduction to Docker       	 							| [Docker](https://carpentries-incubator.github.io/docker-introduction/)|
+ |  MLOps Basics												| [GitHub](https://github.com/graviraja/MLOps-Basics)| 
   
 
  
