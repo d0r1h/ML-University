@@ -23,7 +23,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 9. [Other Useful Websites](#other-useful-websites)
 10. [Other Useful GitRrpo](#other-useful-gitrepo)
 11. [Blogs and Webinar](#blogs-and-webinar) 
-
+12. [Must Read Paper Survey/Research](#paper)
 
 
 
@@ -163,6 +163,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Introduction to Machine Learning Interviews Book				| [huyenchip.com](https://huyenchip.com/ml-interviews-book/)|
  | Hands-On Machine Learning with R 							| [website](https://bradleyboehmke.github.io/HOML/)|
  | Zero to Mastery TensorFlow for Deep Learning Book			| [dev.mrdbourke.com/](https://dev.mrdbourke.com/tensorflow-deep-learning/)|
+ | Introduction to Probability for Data Science					| [probability4datascience](https://probability4datascience.com/)
  
  
  
@@ -206,5 +207,20 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 1. [Recommendation algorithms and System design](https://www.theinsaneapp.com/2021/03/system-design-and-recommendation-algorithms.html?m=1)
 2. [Machine Learning System Design](https://becominghuman.ai/machine-learning-system-design-f2f4018f2f8?gi=942874b21d0e)
 
+
+## Must Read Paper Survey/Research
+
+ **NLP [Text]** 
+
+1. [Text Classification Algorithms: A Survey](https://arxiv.org/abs/1904.08067)
+2. [Deep Learning Based Text Classification: A Comprehensive Review](https://arxiv.org/abs/2004.03705)
+3. [Compression of Deep Learning Models for Text: A Survey](https://arxiv.org/abs/2008.05221)
+4. [A Survey on Text Classification: From Shallow to Deep Learning](https://arxiv.org/pdf/2008.00364.pdf)
+4. [A Survey of Transformers](https://arxiv.org/abs/2106.04554)
+5. [AMMUS : A Survey of Transformer-based Pretrained Models in Natural Language Processing](https://arxiv.org/abs/2108.05542)
+6. [Graph Neural Networks for Natural Language Processing: A Survey](https://arxiv.org/abs/2106.06090)
+8. [A Survey of Data Augmentation Approaches for NLP](https://arxiv.org/abs/2105.03075)
+9. [A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios](https://aclanthology.org/2021.naacl-main.201.pdf)
+10. [Evaluation of Text Generation: A Survey](https://arxiv.org/pdf/2006.14799.pdf) 
 
 
