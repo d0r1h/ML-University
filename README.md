@@ -85,7 +85,9 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Machine Learning & Deep Learning Fundamentals                | [deeplizard](https://deeplizard.com/learn/video/gZmobeGL0Yg)|
  | Interpretability and Explainability in Machine Learning      | [WebSite](https://interpretable-ml-class.github.io/)|
  | Practical Machine Learning 2021 **Stanford**					| [WebSite](https://c.d2l.ai/stanford-cs329p/index.html#)|
- | Machine Learning **VU University** 							| [WebSite](https://mlvu.github.io/)
+ | Machine Learning **VU University** 							| [WebSite](https://mlvu.github.io/)|
+ | Machine Learning for Cyber Security **Purdue University**    | [YouTube](https://www.youtube.com/playlist?list=PL74sw1ohGx7GHqDHCkXZeqMQBVUTMrVLE)|
+ | Audio Signal Processing for Machine Learning 				| [YouTube](https://www.youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0)
  	
 
 ## Deep Learning
@@ -131,6 +133,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Applied Language Technology 									| [website](https://applied-language-technology.readthedocs.io/en/latest/)|
  | Advanced Natural Language Processing **Umass**				| [website](https://people.cs.umass.edu/~miyyer/cs685/schedule.html)|
  | Huggingface Course											| [huggingface.co](https://huggingface.co/course/chapter1?fw=tf)|
+ | NLP Course **Michigan**										| [github](https://github.com/deskool/nlp-class)|
   
 
 ## Reinforcement learning
@@ -164,7 +167,9 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Introduction to Machine Learning Interviews Book				| [huyenchip.com](https://huyenchip.com/ml-interviews-book/)|
  | Hands-On Machine Learning with R 							| [website](https://bradleyboehmke.github.io/HOML/)|
  | Zero to Mastery TensorFlow for Deep Learning Book			| [dev.mrdbourke.com/](https://dev.mrdbourke.com/tensorflow-deep-learning/)|
- | Introduction to Probability for Data Science					| [probability4datascience](https://probability4datascience.com/)
+ | Introduction to Probability for Data Science					| [probability4datascience](https://probability4datascience.com/)|
+ | Graph Representation Learning Book							| [cs.mcgill.ca](https://www.cs.mcgill.ca/~wlh/grl_book/)|
+ | Interpretable Machine Learning								| [christophm](https://christophm.github.io/interpretable-ml-book/)
  
  
  
@@ -203,6 +208,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 6. [NLP Tutorial Code with DL](https://github.com/graykode/nlp-tutorial)
 7. [awesome-mlops](https://github.com/visenger/awesome-mlops)
 8. [Text Classification Algorithms: A Survey](https://github.com/kk7nc/Text_Classification)
+9. [ML use cases by company](https://github.com/khangich/machine-learning-interview/blob/master/appliedml.md)
 
 ## Blogs and Webinar
 1. [Recommendation algorithms and System design](https://www.theinsaneapp.com/2021/03/system-design-and-recommendation-algorithms.html?m=1)
