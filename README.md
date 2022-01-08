@@ -44,6 +44,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Practical Data Ethics										| [fast.ai](https://ethics.fast.ai/)
  | Machine learning Mastery Getting Started 					| [machinelearningmastery](https://machinelearningmastery.com/start-here/)
  | Design and Analysis of Algorithms **MIT**					| [ocw.mit.edu](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+ | AI: Principles and Techniques **Stanford** 					| [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX) 
 
  
 
@@ -68,6 +69,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Title and Source                                             | Link                               				           |
  |------------------------------------------------------------  | -------------------------------------------------------------|
  | Introduction to Machine Learning with scikit-learn 			| [dataschool](https://courses.dataschool.io/introduction-to-machine-learning-with-scikit-learn)|
+ | Introduction to Machine Learning								| [sebastianraschka](https://sebastianraschka.com/blog/2021/ml-course.html)
  | Open Machine Learning Course 								| [mlcourse.ai](https://mlcourse.ai/)						   |
  | Machine Learning (CS229) **Stanford**						| [WebSite](http://cs229.stanford.edu/syllabus-spring2020.html) [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)|
  | Introduction to Machine Learning **MIT** 					| [WebSite](https://tinyurl.com/ybl6udcr)					   |
@@ -95,7 +97,8 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  
  | Title and Source                                             | Link                               				           |
  |------------------------------------------------------------  | -------------------------------------------------------------|
- | Introduction to Deep Learning(6.S191) **MIT**		 		| [YouTube](https://tinyurl.com/y2jmc89y)					   |
+ | Introduction to Deep Learning(6.S191) **MIT**		 		| [YouTube](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)					   |
+ | Introduction to Deep Learning								| [sebastianraschka](https://sebastianraschka.com/blog/2021/dl-course.html)
  | Deep Learning **NYU**					 					| [WebSite](https://atcold.github.io/pytorch-Deep-Learning/)   |
  | Deep Learning (CS182) **UC Berkeley**						| [YouTube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
  | Deep Learning Lecture Series	**DeepMind x UCL**			    | [YouTube](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)|
@@ -135,6 +138,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Advanced Natural Language Processing **Umass**				| [website](https://people.cs.umass.edu/~miyyer/cs685/schedule.html)|
  | Huggingface Course											| [huggingface.co](https://huggingface.co/course/chapter1?fw=tf)|
  | NLP Course **Michigan**										| [github](https://github.com/deskool/nlp-class)|
+ | Advanced NLP **UMass** 										| [YouTube](https://www.youtube.com/playlist?list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL)
   
 
 ## Reinforcement learning
@@ -214,6 +218,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 ## Blogs and Webinar
 1. [Recommendation algorithms and System design](https://www.theinsaneapp.com/2021/03/system-design-and-recommendation-algorithms.html?m=1)
 2. [Machine Learning System Design](https://becominghuman.ai/machine-learning-system-design-f2f4018f2f8?gi=942874b21d0e)
+3. [Lil'BLog](https://lilianweng.github.io/lil-log/)
 
 
 ## Must Read Paper Survey/Research
