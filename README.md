@@ -20,10 +20,12 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 6. [Reinforcement learning](#reinforcement-learning)
 7. [Books](#books)
 8. [ML in Production](#ML-in-Production)
-9. [Other Useful Websites](#other-useful-websites)
-10. [Other Useful GitRrpo](#other-useful-gitrepo)
-11. [Blogs and Webinar](#blogs-and-webinar) 
-12. [Must Read Paper Survey/Research](#paper)
+9. [Quantum ML](#Q-ML)
+10. [DataSets](#data)
+11. [Other Useful Websites](#other-useful-websites)
+12. [Other Useful GitRrpo](#other-useful-gitrepo)
+13. [Blogs and Webinar](#blogs-and-webinar) 
+14. [Must Read Paper Survey/Research](#paper)
 
 
 
@@ -188,6 +190,19 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  |  MLOps Basics												| [GitHub](https://github.com/graviraja/MLOps-Basics)| 
   
 
+## Quantum ML
+
+ | Title and Source                                             | Link                               				         |
+ |------------------------------------------------------------  | -----------------------------------------------------------|
+ | 	Quantum machine learning      	 							| [pennylane.ai](https://pennylane.ai/qml/)|
+
+
+## DataSets
+
+ | Title and Source                                             | Link                               				         |
+ |------------------------------------------------------------  | -----------------------------------------------------------|
+ | Yelp Open Dataset											| https://www.yelp.com/dataset								 | 
+  
  
 ## Other Useful Websites
 
