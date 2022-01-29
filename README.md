@@ -44,7 +44,8 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Practical Data Ethics										| [fast.ai](https://ethics.fast.ai/)
  | Machine learning Mastery Getting Started 					| [machinelearningmastery](https://machinelearningmastery.com/start-here/)
  | Design and Analysis of Algorithms **MIT**					| [ocw.mit.edu](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
- | AI: Principles and Techniques **Stanford** 					| [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX) 
+ | AI: Principles and Techniques **Stanford** 					| [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)|
+ | The Private AI Series 										| [openmined](https://courses.openmined.org/courses)|
 
  
 
