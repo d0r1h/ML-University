@@ -201,7 +201,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 
  | Title and Source                                             | Link                               				         |
  |------------------------------------------------------------  | -----------------------------------------------------------|
- | Yelp Open Dataset											| https://www.yelp.com/dataset								 | 
+ | Yelp Open Dataset											| [yelp](https://www.yelp.com/dataset)						 | 
   
  
 ## Other Useful Websites
