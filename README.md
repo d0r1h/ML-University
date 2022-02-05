@@ -102,7 +102,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  |------------------------------------------------------------  | -------------------------------------------------------------|
  | Introduction to Deep Learning(6.S191) **MIT**		 		| [YouTube](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)					   |
  | Introduction to Deep Learning								| [sebastianraschka](https://sebastianraschka.com/blog/2021/dl-course.html)
- | Deep Learning **NYU**					 					| [WebSite](https://atcold.github.io/pytorch-Deep-Learning/)   |
+ | Deep Learning **NYU**					 					| [WebSite](https://atcold.github.io/pytorch-Deep-Learning/)  [2021](https://atcold.github.io/NYU-DLSP21/) |
  | Deep Learning (CS182) **UC Berkeley**						| [YouTube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
  | Deep Learning Lecture Series	**DeepMind x UCL**			    | [YouTube](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)|
  | Deep Learning (CS230) **Stanford**						    | [WebSite](https://cs230.stanford.edu/lecture/)               | 
