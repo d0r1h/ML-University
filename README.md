@@ -92,7 +92,8 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Practical Machine Learning 2021 **Stanford**					| [WebSite](https://c.d2l.ai/stanford-cs329p/index.html#)|
  | Machine Learning **VU University** 							| [WebSite](https://mlvu.github.io/)|
  | Machine Learning for Cyber Security **Purdue University**    | [YouTube](https://www.youtube.com/playlist?list=PL74sw1ohGx7GHqDHCkXZeqMQBVUTMrVLE)|
- | Audio Signal Processing for Machine Learning 				| [YouTube](https://www.youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0)
+ | Audio Signal Processing for Machine Learning 				| [YouTube](https://www.youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0)|
+ | Machine learning & causal inference **Stanford**				| [YouTube](https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)|
  	
 
 ## Deep Learning
