@@ -206,6 +206,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Machine Translation 											| [website](https://www.manythings.org/anki/)				 |
  | IndicNLP Corpora (Indian languages)							| [ai4bharat](https://indicnlp.ai4bharat.org/explorer/)		 |
  | Amazon product co-purchasing network metadata				| [snap.stanford.edu/](https://snap.stanford.edu/data/amazon-meta.html)|
+ | Stanford Question Answering Dataset (SQuAD)					| [website](https://rajpurkar.github.io/SQuAD-explorer/)
   
  
 ## Other Useful Websites
