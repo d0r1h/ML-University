@@ -178,7 +178,9 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Zero to Mastery TensorFlow for Deep Learning Book			| [dev.mrdbourke.com/](https://dev.mrdbourke.com/tensorflow-deep-learning/)|
  | Introduction to Probability for Data Science					| [probability4datascience](https://probability4datascience.com/)|
  | Graph Representation Learning Book							| [cs.mcgill.ca](https://www.cs.mcgill.ca/~wlh/grl_book/)|
- | Interpretable Machine Learning								| [christophm](https://christophm.github.io/interpretable-ml-book/)
+ | Interpretable Machine Learning								| [christophm](https://christophm.github.io/interpretable-ml-book/)|
+ | Computer Vision: Algorithms and Applications, 2nd ed.		| [szeliski.org](https://szeliski.org/Book/)
+
  
  
  
