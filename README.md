@@ -260,5 +260,6 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 8. [A Survey of Data Augmentation Approaches for NLP](https://arxiv.org/abs/2105.03075)
 9. [A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios](https://aclanthology.org/2021.naacl-main.201.pdf)
 10. [Evaluation of Text Generation: A Survey](https://arxiv.org/pdf/2006.14799.pdf) 
+11. [A Survey of Transfer learning In NLP](https://arxiv.org/pdf/2007.04239.pdf)
 
 
