@@ -143,6 +143,8 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Advanced Natural Language Processing **Umass**				| [website](https://people.cs.umass.edu/~miyyer/cs685/schedule.html) [YouTube 2020](https://www.youtube.com/playlist?list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL)|
  | Huggingface Course											| [huggingface.co](https://huggingface.co/course/chapter1?fw=tf)|
  | NLP Course **Michigan**										| [github](https://github.com/deskool/nlp-class)|
+ | Multilingual NLP 2020 **CMU**								| [YouTube](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5)|
+ | Advanced NLP 2021 **CMU**									| [YouTube](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6)|
 
   
 
