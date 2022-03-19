@@ -229,6 +229,9 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 11. [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/index.html#opt4ml)
 12. [The Machine & Deep Learning Compendium](https://book.mlcompendium.com/)
 13. [connectedpapers - Research Papers](https://www.connectedpapers.com/)
+14. [Papers and Latest Research - deepai](https://deepai.org/)
+15. [Tracking Progress in NLP](https://nlpprogress.com/)
+16. [NLP Blogs by Sebastian Ruder](https://ruder.io/)
 
 ## Other Useful GitRepo
 
