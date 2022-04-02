@@ -131,7 +131,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | ------------------------------------------------------------ | -----------------------------------------------------------|
  | Natural Language Processing AWS								| [YouTube](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw)
  | NLP - Krish Naik 				                            | [YouTube](https://www.youtube.com/playlist?list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm)
- | NLP with Deep Learning(CS224N) 2019 **Stanford**     		| [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+ | NLP with Deep Learning(CS224N) 2019 **Stanford**     		| [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) [2021](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
  | A Code-First Introduction to Natural Language Processing     | [fast.ai](https://www.fast.ai/2019/07/08/fastai-nlp/)|
  | CMU Neural Nets for NLP 2021  **Carnegie Mellon University** | [YouTube](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV)|
  | Speech and Language Processing **Stanford** 					| [WebSite](https://web.stanford.edu/~jurafsky/slp3/) |
@@ -232,6 +232,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 14. [Papers and Latest Research - deepai](https://deepai.org/)
 15. [Tracking Progress in NLP](https://nlpprogress.com/)
 16. [NLP Blogs by Sebastian Ruder](https://ruder.io/)
+17. [labmlai for papers](https://papers.labml.ai/)
 
 ## Other Useful GitRepo
 
