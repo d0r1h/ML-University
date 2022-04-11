@@ -135,7 +135,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | A Code-First Introduction to Natural Language Processing     | [fast.ai](https://www.fast.ai/2019/07/08/fastai-nlp/)|
  | CMU Neural Nets for NLP 2021  **Carnegie Mellon University** | [YouTube](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV)|
  | Speech and Language Processing **Stanford** 					| [WebSite](https://web.stanford.edu/~jurafsky/slp3/) |
- | Natural Language Understanding (CS224U) **Stanford**			| [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)
+ | Natural Language Understanding (CS224U) **Stanford**			| [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20) [2022](https://web.stanford.edu/class/cs224u/)
  | NLP with Dan Jurafsky and Chris Manning, 2012 **Stanford**   | [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ)|
  | Intro to NLP with spaCy   									| [YouTube](https://www.youtube.com/playlist?list=PLBmcuObd5An559HbDr_alBnwVsGq-7uTF)|
  | Advanced NLP with spaCy 										| [website](https://course.spacy.io/en/)                                             |
