@@ -21,11 +21,12 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 7. [Books](#books)
 8. [ML in Production](#ML-in-Production)
 9. [Quantum ML](#Q-ML)
-10. [DataSets](#data)
+10. [DataSets](#dataSets)
 11. [Other Useful Websites](#other-useful-websites)
 12. [Other Useful GitRrpo](#other-useful-gitrepo)
 13. [Blogs and Webinar](#blogs-and-webinar) 
-14. [Must Read Paper Survey/Research](#paper)
+14. [Must Read Paper Survey/Research](#must-read-paper-survey/research)
+15. [Company Tech Blogs](#company-tech-blogs)
 
 
 
@@ -267,5 +268,12 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 9. [A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios](https://aclanthology.org/2021.naacl-main.201.pdf)
 10. [Evaluation of Text Generation: A Survey](https://arxiv.org/pdf/2006.14799.pdf) 
 11. [A Survey of Transfer learning In NLP](https://arxiv.org/pdf/2007.04239.pdf)
+
+## Company Tech Blogs 
+
+1. [AssemblyAI](https://www.assemblyai.com/blog)
+2. [Grammarly](https://www.grammarly.com/blog/engineering/)
+3. [Huggingface](https://huggingface.co/blog)
+4. [Uber](https://eng.uber.com/category/articles/ai/)
 
 
