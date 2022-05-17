@@ -1,9 +1,18 @@
-# Machine Learning University
+<p align="center">
+    <br>
+    <img src="https://github.com/d0r1h/ML-University/blob/master/ml_logo.png" width="300"/>
+    <br>
+<p>
 
-
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fd0r1h%2FML-University&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+<p align="center">
+ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fd0r1h%2FML-University&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+ <a href="https://twitter.com/intent/tweet?text=Checkout this awesome Machine Learning University Repo on Github text:&url=https%3A%2F%2Fgithub.com%2Fd0r1h%2FML-University"><img alt="tweet" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fd0r1h%2FML-University">
+  </a>
+</p>
+<h3 align="center">
+    <p>A Free Machine Learning University </p>
+</h3>
+<br>
 
 Machine Learning Open Source University is an IDEA of free-learning of a ML enthusiast for all other ML enthusiast
 
@@ -19,13 +28,13 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 5. [Natural language processing](#natural-language-processing)
 6. [Reinforcement learning](#reinforcement-learning)
 7. [Books](#books)
-8. [ML in Production](#ML-in-Production)
-9. [Quantum ML](#Q-ML)
-10. [DataSets](#dataSets)
+8. [ML in Production](#ml-in-production)
+9. [Quantum ML](#quantum-ml)
+10. [DataSets](#datasets)
 11. [Other Useful Websites](#other-useful-websites)
 12. [Other Useful GitRrpo](#other-useful-gitrepo)
 13. [Blogs and Webinar](#blogs-and-webinar) 
-14. [Must Read Paper Survey/Research](#must-read-paper-survey-research)
+14. [Must Read Research Paper](#must-read-research-paper)
 15. [Company Tech Blogs](#company-tech-blogs)
 
 
@@ -253,7 +262,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 3. [Lil'BLog](https://lilianweng.github.io/lil-log/)
 
 
-## Must Read Paper Survey/Research
+## Must Read Research Paper
 
  **NLP [Text]** 
 
