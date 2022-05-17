@@ -25,7 +25,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 11. [Other Useful Websites](#other-useful-websites)
 12. [Other Useful GitRrpo](#other-useful-gitrepo)
 13. [Blogs and Webinar](#blogs-and-webinar) 
-14. [Must Read Paper Survey/Research](#must-read-paper-survey/research)
+14. [Must Read Paper Survey/Research](#must-read-paper-survey-research)
 15. [Company Tech Blogs](#company-tech-blogs)
 
 
