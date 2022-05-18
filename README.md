@@ -284,5 +284,6 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 2. [Grammarly](https://www.grammarly.com/blog/engineering/)
 3. [Huggingface](https://huggingface.co/blog)
 4. [Uber](https://eng.uber.com/category/articles/ai/)
+5. [Netflix](https://netflixtechblog.com/)
 
 
