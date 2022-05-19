@@ -285,5 +285,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 3. [Huggingface](https://huggingface.co/blog)
 4. [Uber](https://eng.uber.com/category/articles/ai/)
 5. [Netflix](https://netflixtechblog.com/)
+6. [Spotify Research](https://research.atspotify.com/blog/) | [Engineering](https://engineering.atspotify.com/)
+
 
 
