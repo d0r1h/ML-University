@@ -100,10 +100,11 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Machine Learning & Deep Learning Fundamentals                | [deeplizard](https://deeplizard.com/learn/video/gZmobeGL0Yg)|
  | Interpretability and Explainability in Machine Learning      | [WebSite](https://interpretable-ml-class.github.io/)|
  | Practical Machine Learning 2021 **Stanford**					| [WebSite](https://c.d2l.ai/stanford-cs329p/index.html#)|
- | Machine Learning **VU University** 							| [WebSite](https://mlvu.github.io/)|
+ | Machine Learning **VU University** 							| [WebSite](httbe]ps://mlvu.github.io/)|
  | Machine Learning for Cyber Security **Purdue University**    | [YouTube](https://www.youtube.com/playlist?list=PL74sw1ohGx7GHqDHCkXZeqMQBVUTMrVLE)|
  | Audio Signal Processing for Machine Learning 				| [YouTube](https://www.youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0)|
  | Machine learning & causal inference **Stanford**				| [YouTube](https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)|
+ | Machine learning cs156 **caltech**                           | [YouTube](https://www.youtube.com/playlist?list=PLD63A284B7615313A) |
  	
 
 ## Deep Learning
@@ -277,6 +278,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 9. [A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios](https://aclanthology.org/2021.naacl-main.201.pdf)
 10. [Evaluation of Text Generation: A Survey](https://arxiv.org/pdf/2006.14799.pdf) 
 11. [A Survey of Transfer learning In NLP](https://arxiv.org/pdf/2007.04239.pdf)
+12. [A Systematic Survey of Prompting Methods in NLP](https://arxiv.org/pdf/2107.13586.pdf)
 
 **OCR [Optical Character Recognition]** 
 
