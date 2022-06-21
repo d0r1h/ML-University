@@ -278,6 +278,10 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 10. [Evaluation of Text Generation: A Survey](https://arxiv.org/pdf/2006.14799.pdf) 
 11. [A Survey of Transfer learning In NLP](https://arxiv.org/pdf/2007.04239.pdf)
 
+**OCR [Optical Character Recognition]** 
+
+1. [Survey of Post-OCR Processing Approaches](https://dl.acm.org/doi/pdf/10.1145/3453476)
+
 ## Company Tech Blogs 
 
 1. [AssemblyAI](https://www.assemblyai.com/blog)
