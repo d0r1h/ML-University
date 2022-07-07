@@ -106,6 +106,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Audio Signal Processing for Machine Learning 				| [YouTube](https://www.youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0)|
  | Machine learning & causal inference **Stanford**				| [YouTube](https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)|
  | Machine learning cs156 **caltech**                           | [YouTube](https://www.youtube.com/playlist?list=PLD63A284B7615313A) |
+ | Multimodal machine learning (MMML) **CMU**                   | [WebSite](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/)  [YouTube](https://www.youtube.com/playlist?list=PL-Fhd_vrvisNup9YQs_TdLW7DQz-lda0G)
  	
 
 ## Deep Learning
