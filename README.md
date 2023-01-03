@@ -134,7 +134,8 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Deep Learning for Molecules and Materials					| [WebSite](https://whitead.github.io/dmol-book/intro.html)|
  | Deep Learning course for Vision								| [arthurdouillard.com](https://arthurdouillard.com/deepcourse/)|
  | Deep Multi-Task and Meta Learning (CS330) **Stanford**  		| [WebSite](https://cs330.stanford.edu/) [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)|
- | Deep Learning Interviews book 								| [WebSite](https://github.com/BoltzmannEntropy/interviews.ai)
+ | Deep Learning Interviews book 								| [WebSite](https://github.com/BoltzmannEntropy/interviews.ai)|
+ | Deep Learning for Computer Vision 2021                       | [YouTube](https://www.youtube.com/playlist?list=PL_Z2_U9MIJdNgFM7-f2fZ9ZxjVRP_jhJv)
 
 
 
