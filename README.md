@@ -211,6 +211,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  |------------------------------------------------------------  | -----------------------------------------------------------|
  | 	Introduction to Docker       	 							| [Docker](https://carpentries-incubator.github.io/docker-introduction/)|
  |  MLOps Basics												| [GitHub](https://github.com/graviraja/MLOps-Basics)| 
+ |  Effective MLOps: Model Development                           | [wandb](https://www.wandb.courses/courses/effective-mlops-model-development/)|
   
 
 ## Quantum ML
