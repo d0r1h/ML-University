@@ -162,6 +162,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Multilingual NLP 2020 **CMU**								| [YouTube](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5)|
  | Advanced NLP 2021 **CMU**									| [YouTube](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6)|
  | Transformers United **stanford**                             | [Website](https://web.stanford.edu/class/cs25/)  [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) |  
+ | CS324 Large Language Models | [Website](https://stanford-cs324.github.io/winter2022/)|
 
   
 
