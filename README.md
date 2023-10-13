@@ -139,6 +139,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Deep Learning Interviews book 								| [WebSite](https://github.com/BoltzmannEntropy/interviews.ai)|
  | Deep Learning for Computer Vision 2021                       | [YouTube](https://www.youtube.com/playlist?list=PL_Z2_U9MIJdNgFM7-f2fZ9ZxjVRP_jhJv)
  | Deep Learning 2022 **CMU**                                   | [YouTube](https://www.youtube.com/playlist?list=PLp-0K3kfddPxRmjgjm0P1WT6H-gTqE8j9)   
+ | UvA Deep Learning                                            | [WebSite](https://uvadlc.github.io/)
 
 
 ## Natural language processing 
