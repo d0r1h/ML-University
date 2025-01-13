@@ -27,15 +27,16 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 4. [Deep Learning](#deep-learning)
 5. [Natural language processing](#natural-language-processing)
 6. [Reinforcement learning](#reinforcement-learning)
-7. [Books](#books)
-8. [ML in Production](#ml-in-production)
-9. [Quantum ML](#quantum-ml)
-10. [DataSets](#datasets)
-11. [Other Useful Websites](#other-useful-websites)
-12. [Other Useful GitRrpo](#other-useful-gitrepo)
-13. [Blogs and Webinar](#blogs-and-webinar) 
-14. [Must Read Research Paper](#must-read-research-paper)
-15. [Company Tech Blogs](#company-tech-blogs)
+7. [LLM](LLM (Large Language Model))
+8. [Books](#books)
+9. [ML in Production](#ml-in-production)
+10. [Quantum ML](#quantum-ml)
+11. [DataSets](#datasets)
+12. [Other Useful Websites](#other-useful-websites)
+13. [Other Useful GitRrpo](#other-useful-gitrepo)
+14. [Blogs and Webinar](#blogs-and-webinar) 
+15. [Must Read Research Paper](#must-read-research-paper)
+16. [Company Tech Blogs](#company-tech-blogs)
 
 
 
@@ -178,6 +179,14 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Advanced Deep Learning & Reinforcement Learning        		| [YouTube](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)|
  | DeepMind x UCL Reinforcement Learning 2021					| [YouTube](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
  
+
+
+## LLM (Large Language Model)
+
+| Title and Source                                             | Link |
+ |------------------------------------------------------------  | -----------------------------------------------------------|
+| Large Language Model Systems | [Website](https://llmsystem.github.io/llmsystem2025spring/) |
+
  
 ## Books
 
