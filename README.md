@@ -75,6 +75,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Matrix Methods in Data Analysis,and Machine Learning **MIT** | [WebSite](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
  | Math for Machine Learning 									| [YouTube](https://www.youtube.com/playlist?app=desktop&list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg) |
  | Statistics for Applications **MIT** | [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0) 
+ | Introduction to Mathematical Thinking | [Website](http://imt-decal.org/)|
 
 
 
