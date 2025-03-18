@@ -261,7 +261,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 13. [connectedpapers - Research Papers](https://www.connectedpapers.com/)
 14. [Papers and Latest Research - deepai](https://deepai.org/)
 15. [Tracking Progress in NLP](https://nlpprogress.com/)
-16. [NLP Blogs by Sebastian Ruder](https://ruder.io/)
+16. [NLP Blogs by Sebastian Ruder](https://www.ruder.io/)
 17. [labmlai for papers](https://papers.labml.ai/)
 
 ## Other Useful GitRepo
@@ -277,7 +277,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 9. [ML use cases by company](https://github.com/khangich/machine-learning-interview/blob/master/appliedml.md)
 
 ## Blogs and Webinar
-1. [Recommendation algorithms and System design](https://www.theinsaneapp.com/2021/03/system-design-and-recommendation-algorithms.html?m=1)
+1. [Recommendation algorithms and System design](https://www.theinsaneapp.com/2021/03/system-design-and-recommendation-algorithms.html)
 2. [Machine Learning System Design](https://becominghuman.ai/machine-learning-system-design-f2f4018f2f8?gi=942874b21d0e)
 3. [Lil'BLog](https://lilianweng.github.io/lil-log/)
 
