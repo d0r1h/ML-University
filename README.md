@@ -5,10 +5,10 @@
 <p>
 
 <p align="center">
- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fd0r1h%2FML-University&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
- <a href="https://twitter.com/intent/tweet?text=Checkout this awesome Machine Learning University Repo on Github text:&url=https%3A%2F%2Fgithub.com%2Fd0r1h%2FML-University"><img alt="tweet" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fd0r1h%2FML-University">
-  </a>
+<img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fd0r1h%2FML-University&label=&icon=github&color=%23198754&tz=UTC">
+<a href="https://twitter.com/intent/tweet?text=Checkout this awesome Machine Learning University Repo on Github text:&url=https%3A%2F%2Fgithub.com%2Fd0r1h%2FML-University"><img alt="tweet" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fd0r1h%2FML-University"></a>
 </p>
+
 <h3 align="center">
     <p>A Free Machine Learning University </p>
 </h3>
