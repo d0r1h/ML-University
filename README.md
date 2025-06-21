@@ -186,7 +186,8 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 | Title and Source                                             | Link |
  |------------------------------------------------------------  | -----------------------------------------------------------|
 | Large Language Model Systems | [Website](https://llmsystem.github.io/llmsystem2025spring/) |
-| CS336: Language Modeling from Scratch | [Website](https://stanford-cs336.github.io/spring2025/)| 
+| CS336: Language Modeling from Scratch | [Website](https://stanford-cs336.github.io/spring2025/) [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_) | 
+
 
  
 ## Books
