@@ -27,7 +27,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 4. [Deep Learning](#deep-learning)
 5. [Natural language processing](#natural-language-processing)
 6. [Reinforcement learning](#reinforcement-learning)
-7. [LLM](LLM (Large Language Model))
+7. [LLM](#LLM-Large-Language-Model)
 8. [Books](#books)
 9. [ML in Production](#ml-in-production)
 10. [Quantum ML](#quantum-ml)
@@ -181,11 +181,12 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  
 
 
-## LLM (Large Language Model)
+## Large Language Model
 
 | Title and Source                                             | Link |
  |------------------------------------------------------------  | -----------------------------------------------------------|
 | Large Language Model Systems | [Website](https://llmsystem.github.io/llmsystem2025spring/) |
+| CS336: Language Modeling from Scratch | [Website](https://stanford-cs336.github.io/spring2025/)| 
 
  
 ## Books
