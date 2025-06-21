@@ -27,7 +27,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 4. [Deep Learning](#deep-learning)
 5. [Natural language processing](#natural-language-processing)
 6. [Reinforcement learning](#reinforcement-learning)
-7. [LLM](#LLM-Large-Language-Model)
+7. [LLM](#large-language-model)
 8. [Books](#books)
 9. [ML in Production](#ml-in-production)
 10. [Quantum ML](#quantum-ml)
