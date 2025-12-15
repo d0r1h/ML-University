@@ -37,6 +37,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 14. [Blogs and Webinar](#blogs-and-webinar) 
 15. [Must Read Research Paper](#must-read-research-paper)
 16. [Company Tech Blogs](#company-tech-blogs)
+17. [Practice Machine Learning](#practice-machine-learning)
 
 
 
@@ -178,7 +179,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Reinforcement Learning Course  **DeepMind & UCL**			| [YouTube-2018](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb)|
  | Advanced Deep Learning & Reinforcement Learning        		| [YouTube](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)|
  | DeepMind x UCL Reinforcement Learning 2021					| [YouTube](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
- 
+
 
 
 ## Large Language Model
@@ -188,6 +189,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 | Large Language Model Systems | [Website](https://llmsystem.github.io/llmsystem2025spring/) |
 | CS336: Language Modeling from Scratch | [Website](https://stanford-cs336.github.io/spring2025/) [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)|
 | CME 295: Transformers & Large Language Models | [Website](https://cme295.stanford.edu/syllabus/) 
+| An Open Course on LLMs, Led by Practitioners |[Website](https://hamel.dev/blog/posts/course/)
 
 
  
@@ -282,10 +284,9 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 ## Blogs and Webinar
 1. [Recommendation algorithms and System design](https://www.theinsaneapp.com/2021/03/system-design-and-recommendation-algorithms.html)
 2. [Machine Learning System Design](https://becominghuman.ai/machine-learning-system-design-f2f4018f2f8?gi=942874b21d0e)
-3. [Lil'BLog](https://lilianweng.github.io/lil-log/)
 
 
-## Must Read Research Paper
+## Must Read Research Paper & WebBooks
 
  **NLP [Text]** 
 
@@ -306,7 +307,21 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 
 1. [Survey of Post-OCR Processing Approaches](https://dl.acm.org/doi/pdf/10.1145/3453476)
 
-## Company Tech Blogs 
+**LLM (Large Language Models)**
+
+1. [Foundations of Large Language Models](https://arxiv.org/pdf/2501.09223)
+2. [On the Biology of a Large Language Model : Anthropic](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
+3. [Vision-Language Models](https://arxiv.org/pdf/2404.07214)
+4. [LLM Inference Handbook](https://bentoml.com/llm/)
+5. [Inside vLLM: LLM Inference System](https://www.aleksagordic.com/blog/vllm)
+6. [MCP : Model Context Protocol](https://modelcontextprotocol.io/docs/getting-started/intro)
+7. [In-Context Learning](https://intro-to-icl.github.io/)
+
+
+
+## Tech Blogs 
+
+**Company**
 
 1. [AssemblyAI](https://www.assemblyai.com/blog)
 2. [Grammarly](https://www.grammarly.com/blog/engineering/)
@@ -314,6 +329,24 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 4. [Uber](https://eng.uber.com/category/articles/ai/)
 5. [Netflix](https://netflixtechblog.com/)
 6. [Spotify Research](https://research.atspotify.com/blog/) | [Engineering](https://engineering.atspotify.com/)
+7. [Unsloth Blog](https://unsloth.ai/blog)
+8. [Thinking Machines](https://thinkingmachines.ai/blog/)
+
+**Researcher and Engineers**
+
+0. [TRANSFORMER EXPLAINER](https://poloclub.github.io/transformer-explainer/)
+1. [lilianweng](https://lilianweng.github.io/)
+2. [Interconnects](https://www.interconnects.ai/)
+3. [Ahead of AI by Sebastian Raschka](https://magazine.sebastianraschka.com/)
+4. [AI by Hand](https://www.byhand.ai/)
+5. [Lil'BLog](https://lilianweng.github.io/lil-log/)
+
+##  Practice Machine Learning
+
+1. [deep-ml](https://www.deep-ml.com/)
+2. [tensortonic](https://www.tensortonic.com/)
+3. [tensorgym](https://tensorgym.com/)
+4. [leetgpu](https://leetgpu.com/challenges)
 
 
 
