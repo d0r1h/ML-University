@@ -38,6 +38,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 15. [Must Read Research Paper](#must-read-research-paper)
 16. [Company Tech Blogs](#company-tech-blogs)
 17. [Practice Machine Learning](#practice-machine-learning)
+18. [Generative and Agentic AI](#generative-and-agentic-ai)
 
 
 
@@ -347,6 +348,11 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 2. [tensortonic](https://www.tensortonic.com/)
 3. [tensorgym](https://tensorgym.com/)
 4. [leetgpu](https://leetgpu.com/challenges)
+
+
+## Generative and Agentic AI
+
+1. [Deep Generative Models](https://kuleshov-group.github.io/dgm-website/) 
 
 
 
