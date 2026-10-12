@@ -28,18 +28,17 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 5. [Natural language processing](#natural-language-processing)
 6. [Reinforcement learning](#reinforcement-learning)
 7. [LLM](#large-language-model)
-8. [Books](#books)
-9. [ML in Production](#ml-in-production)
-10. [Quantum ML](#quantum-ml)
-11. [DataSets](#datasets)
-12. [Other Useful Websites](#other-useful-websites)
-13. [Other Useful GitRrpo](#other-useful-gitrepo)
-14. [Blogs and Webinar](#blogs-and-webinar) 
-15. [Must Read Research Paper](#must-read-research-paper)
-16. [Company Tech Blogs](#company-tech-blogs)
-17. [Practice Machine Learning](#practice-machine-learning)
-18. [Generative and Agentic AI](#generative-and-agentic-ai)
-
+8. [Generative and Agentic AI](#generative-and-agentic-ai)
+9. [Books](#books)
+10. [ML in Production](#ml-in-production)
+11. [Quantum ML](#quantum-ml)
+12. [DataSets](#datasets)
+13. [Other Useful Websites](#other-useful-websites)
+14. [Other Useful GitRrpo](#other-useful-gitrepo)
+15. [Blogs and Webinar](#blogs-and-webinar) 
+16. [Must Read Research Paper](#must-read-research-paper)
+17. [Company Tech Blogs](#company-tech-blogs)
+18. [Practice Machine Learning](#practice-machine-learning)
 
 
 
@@ -193,6 +192,12 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 | An Open Course on LLMs, Led by Practitioners |[Website](https://hamel.dev/blog/posts/course/)
 
 
+## Generative and Agentic AI
+
+1. [Deep Generative Models](https://kuleshov-group.github.io/dgm-website/)
+2. [CS2680 Modern AI Systems](https://cs2680.com/) 
+
+
  
 ## Books
 
@@ -217,7 +222,8 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | Introduction to Probability for Data Science					| [probability4datascience](https://probability4datascience.com/)|
  | Graph Representation Learning Book							| [cs.mcgill.ca](https://www.cs.mcgill.ca/~wlh/grl_book/)|
  | Interpretable Machine Learning								| [christophm](https://christophm.github.io/interpretable-ml-book/)|
- | Computer Vision: Algorithms and Applications, 2nd ed.		| [szeliski.org](https://szeliski.org/Book/)
+ | Computer Vision: Algorithms and Applications, 2nd ed.		| [szeliski.org](https://szeliski.org/Book/) |
+ | Foundations of Large Language Models |                       | [arxiv.org](https://arxiv.org/pdf/2501.09223) | 
 
  
  
@@ -348,11 +354,6 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 2. [tensortonic](https://www.tensortonic.com/)
 3. [tensorgym](https://tensorgym.com/)
 4. [leetgpu](https://leetgpu.com/challenges)
-
-
-## Generative and Agentic AI
-
-1. [Deep Generative Models](https://kuleshov-group.github.io/dgm-website/) 
 
 
 
