@@ -188,14 +188,20 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  |------------------------------------------------------------  | -----------------------------------------------------------|
 | Large Language Model Systems | [Website](https://llmsystem.github.io/llmsystem2025spring/) |
 | CS336: Language Modeling from Scratch | [Website](https://stanford-cs336.github.io/spring2025/) [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)|
-| CME 295: Transformers & Large Language Models | [Website](https://cme295.stanford.edu/syllabus/) 
-| An Open Course on LLMs, Led by Practitioners |[Website](https://hamel.dev/blog/posts/course/)
+| CME 295: Transformers & Large Language Models | [Website](https://cme295.stanford.edu/syllabus/) |
+| An Open Course on LLMs, Led by Practitioners |[Website](https://hamel.dev/blog/posts/course/) |
+| TinyML and Efficient AI Computing | [Website](https://hanlab.mit.edu/courses/2026-fall-65940) | 
 
 
 ## Generative and Agentic AI
 
-1. [Deep Generative Models](https://kuleshov-group.github.io/dgm-website/)
-2. [CS2680 Modern AI Systems](https://cs2680.com/) 
+| Title and Source                                             | Link |
+|------------------------------------------------------------  | -----------------------------------------------------------|
+| Deep Generative Models | [Website](https://kuleshov-group.github.io/dgm-website/) |
+| CS2680: Modern AI Systems **Harvard** | [Website](https://cs2680.com/) | 
+| CS 329Z: Engineering AI Agents **Stanford** | [Website](https://cs329z.stanford.edu/) |
+| CS146S: The Modern Software Developer **Stanford** | [Website](https://themodernsoftware.dev/fall2025) | 
+
 
 
  
@@ -236,6 +242,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
  | 	Introduction to Docker       	 							| [Docker](https://carpentries-incubator.github.io/docker-introduction/)|
  |  MLOps Basics												| [GitHub](https://github.com/graviraja/MLOps-Basics)| 
  |  Effective MLOps: Model Development                           | [wandb](https://www.wandb.courses/courses/effective-mlops-model-development/)|
+ |  Parallel Programming Concepts and High Performance Computing | [Website](https://cvw.cac.cornell.edu/parallel) |
   
 
 ## Quantum ML
