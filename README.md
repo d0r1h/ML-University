@@ -294,6 +294,7 @@ Machine Learning Open Source University is an IDEA of free-learning of a ML enth
 7. [awesome-mlops](https://github.com/visenger/awesome-mlops)
 8. [Text Classification Algorithms: A Survey](https://github.com/kk7nc/Text_Classification)
 9. [ML use cases by company](https://github.com/khangich/machine-learning-interview/blob/master/appliedml.md)
+10. [Tiny ML Lab - NumPy algorithms, workbooks and failure-case tests](https://github.com/RishabhPande/tiny-ml-lab)
 
 ## Blogs and Webinar
 1. [Recommendation algorithms and System design](https://www.theinsaneapp.com/2021/03/system-design-and-recommendation-algorithms.html)
